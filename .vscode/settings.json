@@ -1,0 +1,12 @@
+{
+  "claudeCode.mcpServers": {
+    "gmail": {
+      "command": "uv",
+      "args": [
+        "run",
+        "python",
+        "C:\\AIDevelopmentCourse\\L12-Agents\\L12-Gmail-API-Key\\gmail_mcp_server.py"
+      ]
+    }
+  }
+}
