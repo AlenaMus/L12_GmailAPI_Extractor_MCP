@@ -1,0 +1,463 @@
+================================================================================
+EMAIL 5 OF 6
+================================================================================
+Message ID: 19998b3a72aafa8d
+From: PayBox <support@payboxapp.com>
+To: alona.musiyko@gmail.com
+Subject: התקבלה העברה ל-PayBox שלך.
+Date: Tue, 30 Sep 2025 03:38:53 +0000 (UTC)
+================================================================================
+
+EMAIL BODY:
+
+PayBox
+
+קבלת כסף ליתרה האישית שלך!
+
+היי אלונה שלייב, רצינו לעדכן שקבלת כסף מקבוצת Farewell gift to Shani בסכום של 1570 ש"ח.
+
+הכסף התווסף ליתרה האישית שלך באפליקציה.
+
+פרטי העברה:
+
+תאריך
+
+06:38:53 ,30/09/2025
+
+סכום
+
+1570 ש"ח
+
+מספר אישור
+
+A8P9AW3AnpSPKjyDn
+
+יש לך שאלה? בשביל זה אנחנו כאן!
+
+תמיד אפשר ליצור קשר עם מוקד שירות הלקוחות במייל mailto:support@payboxapp.com.
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+
+<base target="_blank">
+<title>PayBox</title>
+<style type="text/css">
+
+body *{font-family: Helvetica, Arial, sans-serif, 'Open Sans' !important}
+	
+
+div, p, a, li, td { -webkit-text-size-adjust:none; }
+
+*{-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+td{word-break: break-word;}
+a{word-break: break-word; text-decoration: none; color: inherit;}
+
+body .ReadMsgBody
+{width: 100%; background-color: #ffffff;}
+body .ExternalClass
+{width: 100%; background-color: #ffffff;}
+body{width: 100%; height: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased;}
+html{ background-color:#ffffff; width: 100%;}
+
+body img {user-drag: none; -moz-user-select: none; -webkit-user-drag: none;}
+body .hover:hover {opacity:0.85;filter:alpha(opacity=85);}
+
+body .image77 img {width: 77px; height: auto;}
+body .icon18 img {width: 18px; height: auto;}
+body .icon61 img {width: 61px; height: auto;}
+body .logo img {width: 75px; height: auto;}
+body .icon18 img {width: 18px; height: auto;}
+body .circle-image img{width:104px; height:104px;}
+body .full-size img{width:100%; height:auto;}
+body .circle-image3 img{width:20px; height:20px;}
+body .circle-image2 img{width:32.5px; height:20px;}
+
+
+</style>
+
+<style type="text/css">@media only screen and (max-width: 640px){
+		body body{width:auto!important;}
+		body table[class=full2] {width: 100%!important; clear: both; }
+		body table[class=mobile2] {width: 100%!important; padding-left: 20px; padding-right: 20px; clear: both; }
+		body table[class=fullCenter2] {width: 100%!important; text-align: center!important; clear: both; }
+		body td[class=fullCenter2] {width: 100%!important; text-align: center!important; clear: both; }
+		body td[class=pad15] {width: 100%!important; padding-left: 15px; padding-right: 15px; clear: both;}
+}</style>
+
+<style type="text/css">@media only screen and (max-width: 479px){
+		body body{width:auto!important;}
+		body table[class=full2] {width: 100%!important; clear: both; }
+		body table[class=mobile2] {width: 100%!important; clear: both; }
+		body table[class=fullCenter2] {width: 100%!important; text-align: center!important; clear: both; }
+		body td[class=fullCenter2] {width: 100%!important; text-align: center!important; clear: both; }
+		body table[class=full] {width: 100%!important; clear: both; }
+		body table[class=mobile] {width: 100%!important; clear: both; }
+		body table[class=fullCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		body td[class=fullCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		body td[class=pad15] {width: 100%!important; padding-left: 15px; padding-right: 15px; clear: both;}
+		body .erase {display: none;}
+		body .break {width: 100%!important; display: table-cell; margin:0; padding-bottom: 10px!important;}
+
+
+}</style>
+
+</head>
+<body width="100%" style='margin: 0; padding: 0; width: 100%;' >
+
+<!-- Container Table -->
+<table width="450" dir="rtl" border="0" cellpadding="0" cellspacing="0" align="center" class="full" bgcolor="#f3f7f8" style="background-color: #f3f7f8">
+	<tbody>
+	  <tr>
+		  <td align="center">
+		    <!-- Container Inner Table -->
+			  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				  <tbody><tr>
+				  	<td width="100%" valign="middle" class="logo" align="center">
+				  	  
+					  	<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse: collapse;" class="fullCenter">
+							<tbody>
+						</tbody>
+						</table>
+				
+					<!-- Container Second Inner Table -->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" bgcolor="#ffffff" style="-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; background-color: #ffffff;">
+							<tbody><tr>
+								<td width="100%" align="center">
+								  <!-- Logo Table -->
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: #22a7f0; min-width: 100%; max-width: 100%;">
+										<tbody><tr>
+											<td width="100%" valign="middle" align="center">
+											<!-- Inner Logo Table -->
+												<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;;" class="fullCenter">
+													<tbody>
+													  <tr width="100%" style=""><td style="font-size: 0; line-height: 0;" height="30">&nbsp;</td></tr>
+                          <!-- Logo Img -->
+												  <tr width="100%" style="">
+													   
+														<td style="line-height: 1px; border-top-left-radius: 5px; border-top-right-radius: 5px; text-align: center;">
+											<img src="https://marketing-image-production.s3.amazonaws.com/uploads/5bc840092ede8f272a595ca0c26c2a47cc7bb7b579249a0b0b5ee3149641ab442d01195a156008bdf99e0c06aec5b66277fbac6faeab8b6ce9ab20adcd102e51.png"  alt="logo" border="0" class="hover" width="150" mc:edit="1" style="width: 150px; height: auto; display: block; margin-left: auto; margin-right: auto;">
+														</td>
+													</tr>
+
+
+													<tr width="100%" style=""><td style="font-size: 0; line-height: 0;" height="30">&nbsp;</td></tr>
+												</tbody>
+												</table>
+												<!-- /Inner Logo Table -->
+											</td>
+										</tr>
+									</tbody>
+									</table>
+									<!-- /Logo Table -->
+									
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+										<tbody><tr>
+											<td width="100%" valign="middle" align="center" height="0">
+											</td>
+										</tr>
+									</tbody>
+									</table>
+									
+                        
+									
+					
+									
+									<!-- First Section -->
+  								<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  								  <tbody>
+  								    <tr>
+  								      <!-- Backup background color is #DDDDDD -->
+  								      <td>
+  								        <!-- [if gte mso 9]><v:rect style="width:400px;height:120px;" strokecolor="none"><v:fill type="tile" color="#DDDDDD" src="http://www.example.com/background_image.jpg" /></v:fill></v:rect><v:shape id="theText" style="position:absolute;width:400px;height:120px;"><![endif]-->
+									        
+									        
+						          <!-- Inner First Section -->
+  					         <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;" class="mobile">
+													<tbody>
+                           
+                  
+  													<tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+  
+                            <!-- Inner Section Text -->
+  													<tr>
+  													  <td style="text-align: right; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing:-0.5px; font-size: 20px; color: #019cec; line-height: 27px; padding-right: 15px; padding-left: 15px; font-weight:900;">
+  													    <p style="display: block; direction: rtl;">
+  													      <b>
+  											      <span style="direction:rtl;"></span>
+  													        			      קבלת כסף ליתרה האישית שלך!
+  													    </b>
+  													    </p>
+  													    
+  													    
+  													    </td>
+  													</tr>
+														<tr><td width="100%" valign="middle" align="center" height="5"></td></tr>
+  													<tr>
+  													  <td style="text-align: right; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing:-0.5px; font-size: 18px; color: #404a6d; line-height: 27px; direction: rtl; padding-right: 15px; padding-left: 15px;">
+  													    
+  													    
+  היי אלונה שלייב, רצינו לעדכן שקבלת כסף מקבוצת Farewell gift to Shani בסכום של 1570 ש"ח.
+  <br>
+הכסף התווסף ליתרה האישית שלך באפליקציה.
+
+  													    
+  													    </td>
+  													</tr>
+  													<!-- /Inner Section Text -->
+  												  <tr><td width="100%" valign="middle" align="center" height="40"></td></tr>
+											  </tbody>
+										  </table>
+									        <!-- Inner First Section -->
+
+  									        <!-- [if gte mso 9]></v:shape><![endif]-->
+							          </td>
+						          </tr>
+						        </tbody>
+					        </table>
+  								  	<!-- /First Section -->
+
+									
+									<!-- Second Section -->
+										<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  								  <tbody>
+  								    <tr>
+  								      <!-- Backup background color is #DDDDDD -->
+  								      <td style="">
+  								        	<!-- Inner Second Section -->
+  					            <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;" class="fullCenter">
+  													<tbody>
+  													  <tr>
+  														<td align="center" style="line-height: 1px;">
+  															<img src="https://marketing-image-production.s3.amazonaws.com/uploads/1a1efbd8bb618a55e8772e214ecd4a86aa843113ee6e50d4a9697fba94c31ebc298a8d9d83304c3b7760357f3c09c07ec83e3921a1f2bc307894080388db5c6e.png" alt="wallet" border="0" class="hover" mc:edit="1" style="width: auto; display: block; border: 0; color: transparent;">
+  														</td>
+  													</tr>
+  													<tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+  													<tr>
+  													  <td style="text-align: center; font-family: 'AlmoniDLAAA-Bold', Arial, sans-serif, 'Open Sans'; font-size: 24px; color: #404a6d; line-height: 1; direction: rtl; letter-spacing:0px; ">
+  													    <b>פרטי העברה:</b>
+  													    </td>
+  													</tr>
+  													
+  													<tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+  													
+  
+  												</tbody>
+  								</table>
+  								    <!-- /Inner Second Section -->
+  												
+											</td>
+										</tr>
+									</tbody></table>
+									<!-- /Second Section -->
+									<!-- Third Section -->
+  									<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" style="background-color: #e9f7ff; font-size: 0; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;  border-bottom-left-radius: 5px;  border-bottom-right-radius: 5px;" class="fullCenter">
+  								  <tbody>
+  								   
+												<tr>
+
+									        <td style="">
+									       
+  					              <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;" class="fullCenter">
+  										    	<tbody>
+  										    	   <tr><td style="font-size: 0; line-height: 0;" height="25">&nbsp;</td></tr>
+  										    	  <tr>
+  										    	   
+										    	      <td width="50" style="padding-right: 5px; ">
+  										    	      <img src="https://marketing-image-production.s3.amazonaws.com/uploads/021ee4d314ffcccd5161dfef30cdc28206037ea806840aa9f4e6e73e694907deb00146e894ec68afe3818f887ac15b6ae8322c4fbeb721e385a48a7d122739e7.png" style="padding-top: 5px; width: 50px; height: 202px; border: 0; display: block; color: transparent;" alt="calander credit tag">
+  										    	    </td>
+  										    	    <td>
+  										    	      <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px; margin-right: 0; margin-left: 0;" class="fullCenter">
+  										    	        <tbody>
+  										    	          <tr>
+  										    	                <td style="text-align: right; font-family: Arial, sans-serif, 'Open Sans'; letter-spacing:0px; font-size: 16px; color: #6f809a; line-height: 30px; direction: rtl; padding-right: 5px;">
+              												    <p style="margin:0;">תאריך</p>
+                										    </td>
+  										    	             <td style="text-align: left; font-family:Arial, sans-serif, 'Open Sans'; letter-spacing:0px; font-size: 16px;color: #404a6d;  line-height: 30px; direction: rtl;
+                  													  padding-left: 5px; ">
+                                             <p style="margin:0;">06:38:53 ,30/09/2025</p>
+
+											                    </td>
+              											  
+  										    	          </tr>
+  										    	          <tr><td style="font-size: 0; line-height: 0;  " height="45">&nbsp;</td></tr>
+  										    	          	<tr>
+  										    	          	   <td style="text-align: right; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing:0px; font-size: 16px; color: #6f809a; line-height: 30px; direction: rtl; padding-right: 5px;">
+
+													    <p style="margin:0;">סכום</p>
+
+													    </td>
+												    <td>
+												      <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;" class="fullCenter">
+												        <tbody>
+												          <tr align="center">
+												           
+												        
+												             <td style="text-align: left; font-family:Arial, sans-serif, 'Open Sans'; letter-spacing:0px; font-size: 16px;color: #404a6d;  line-height: 30px; direction: rtl; padding-left: 5px;">
+												                <span style="direction: ltr">1570 ש"ח</span>
+												            </td>
+												             
+												          </tr>
+												          
+												        </tbody>
+												      </table>
+
+													 
+
+													    </td>
+													    
+													 
+
+
+													</tr>
+													<tr><td style="font-size: 0; line-height: 0;  " height="45">&nbsp;</td></tr>
+														<tr>
+	                        
+													    
+													  <td style="text-align: right; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing:0px; font-size: 16px; color: #6f809a; line-height: 30px; direction: rtl; padding-right: 5px;">
+
+                          <p style="margin:0;">מספר אישור</p>
+
+
+													    </td>
+													    <td style="text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing:0px; font-size: 16px; color: #404a6d; line-height: 30px; direction: rtl;												padding-left:5px;">
+													 
+													 <p style="margin:0;">A8P9AW3AnpSPKjyDn</p>
+
+
+													    </td>
+
+													</tr>
+  										    	          </tbody>
+  										    	      </table>
+  										    	    </td>
+
+  										    	  </tr>
+                         
+														
+													<tr><td style="font-size: 0; line-height: 0;  " height="25">&nbsp;</td></tr>
+												
+												</tbody>
+								    </table>
+											</td>
+										</tr>
+									</tbody></table>
+									<!-- /Third Section -->
+									<!-- Fourth Section -->
+										
+									<!-- /Fourth Section -->
+									<!-- Fifth Section -->
+										<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  								  <tbody>
+  								    <tr>
+  								      <!-- Backup background color is #DDDDDD -->
+  								      <td style="">
+									<table border="0" width="100%" cellspacing="0" cellpadding="0">
+									  <tbody>
+									    
+									    <tr>
+									      <!-- Backup background color is #DDDDDD -->
+									      <td align="right" style="" valign="top" width="400" bgcolor="#fff" height="250">
+									        <!-- [if gte mso 9]><v:rect style="width:400px;height:120px;" strokecolor="none"><v:fill type="tile" color="#DDDDDD" src="http://www.example.com/background_image.jpg" /></v:fill></v:rect><v:shape id="theText" style="position:absolute;width:400px;height:120px;"><![endif]-->
+									        
+									        
+									        
+						       <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border-top-left-radius: 5px; border-top-right-radius: 5px;" class="fullCenter">
+													<tbody>
+													  	<tr>
+													  <td style="text-align: right; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing:-0.18px; font-size: 15px; color: #6f809a; line-height: 30px; direction: rtl; padding-right: 15px;
+													  padding-left:15px; display: block;">
+													
+													    </td>
+													</tr>
+													  <tr><td style="font-size: 0; line-height: 0;" height="55">&nbsp;</td></tr>
+													  <tr>
+														<td align="center" style="line-height: 1px;">
+															<img src="https://marketing-image-production.s3.amazonaws.com/uploads/7059bec728f1d18a1393034d96a619490a21ea5edac3367c2924a569d9baf9f2aac3cc7fd65b87f73e1aad3b19d979960b8d2cba2b68e81858ae49c0c7699be6.png" alt="notes" border="0" class="hover" mc:edit="1" style="width: auto; display: block; border: 0; color: transparent;">
+														</td>
+													</tr>
+													<tr><td style="font-size: 0; line-height: 0;" height="35">&nbsp;</td></tr>
+													<tr>
+													  <td style="text-align: center; font-family: 'AlmoniDLAAA-Bold', Arial, sans-serif, 'Open Sans'; font-size: 24px; color: #404a6d; line-height: 1; direction: rtl; letter-spacing:-0.5px; ">
+													    
+													    <b>
+     
+      יש לך שאלה? בשביל זה אנחנו כאן!
+    </b>
+													    
+													    </td>
+													</tr>
+													
+													<tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+													
+													<tr>
+													  <td style="text-align: right; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; letter-spacing: -0.18px; font-size: 15px; color: #6f809a; line-height: 30px; direction: rtl; padding-right: 15px; padding-left: 15px; display: block;">
+<p style="text-align: center; margin: 0; color: #6f809a;">תמיד אפשר ליצור קשר עם מוקד שירות הלקוחות <a style="color: #48bdf9;" href="mailto:support@payboxapp.com">במייל</a>.</p>
+</td>
+													</tr>
+													
+													<tr><td style="font-size: 0; line-height: 0;" height="106">&nbsp;</td></tr>
+												</tbody>
+												</table>
+									        
+									        
+									        
+									        
+									        <!-- [if gte mso 9]></v:shape><![endif]-->
+									        </td>
+									        </tr>
+									        </tbody>
+									        </table>
+									
+												</td>
+										</tr>
+									</tbody></table>
+									<!-- /Fifth Section -->
+									<!-- Top Footer Section -->
+										<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  								  <tbody>
+  								    <tr>
+  								      <!-- Backup background color is #DDDDDD -->
+  								      <td style="">
+							
+									
+									
+									
+									
+									
+												
+											</td>
+										</tr>
+									</tbody></table>
+									<!-- Top Footer Section -->
+
+
+            	  </td>
+							</tr>
+						</tbody>
+						</table>
+
+
+												
+											</td>
+										</tr>
+									</tbody></table>
+
+													
+
+			
+
+			
+											</td>
+										</tr>
+									</tbody></table>
+
+<img src="http://linkclick.payboxapp.com/wf/open?upn=u001.IwWt1TopXu8RxKieoPlPD6uIUPHhejFyBi0XPpVgP3wbUdclxmYzGA5YwetLsc6-2FiSCvYVLRNSTZBQ-2FFB-2FT3qy80Zido4TQi0naw-2FfQ-2B7Ot4qnSn9PmX1G-2FxZeTCvF-2BwP4l-2B-2B-2Bwf8-2FbV3gbR7qMwvXdiYoiUcvTlBFhtWusiAnVAecIHFy-2BjLOj9PlrPgANR55Xs5IBMUO3DXxYmAmc-2FQqf5YUSNVm1WkDisKGNKwiU-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
+
+================================================================================

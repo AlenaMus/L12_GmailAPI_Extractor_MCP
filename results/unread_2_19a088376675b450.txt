@@ -1,0 +1,286 @@
+================================================================================
+EMAIL 2 OF 8
+================================================================================
+Message ID: 19a088376675b450
+From: Facebook Ads Team <advertise-noreply@support.facebook.com>
+To: Victoria Musiyko <alona.musiyko@gmail.com>
+Subject: עדכונים לתנאים למודעות לידים
+Date: Tue, 21 Oct 2025 13:43:28 -0700
+================================================================================
+
+EMAIL BODY:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN"><html><head><title>פייסבוק</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head><body style="margin:0;padding:0;" dir="rtl" bgcolor="#ffffff"><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" id="email_table" style="border-collapse:collapse;"><tr><td id="email_content" style="font-family:ArialMT, Arial, sans-serif;background:#ffffff;font-size:16px;max-width:720px;padding:0;"><table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td height="1" colspan="3" style="line-height:1px;"><span style="color:#FFFFFF;font-size:1px;opacity:0;">התנאים למודעות לידים ישתנו ב-10 באוקטובר 2025.</span></td></tr><tr><td style=""><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="color-scheme" content="light dark" /><meta name="supported-color-schemes" content="light dark" /><meta name="x-apple-disable-message-reformatting" /><title>Meta for Business</title><style type="text/css" nonce="wzsQz42C">
+      :root {
+        Color-scheme: light dark;
+        supported-color-schemes:light dark;
+      }
+       /* Override Android Gmail */
+      u + .body .tp_header {
+        mix-blend-mode:screen;
+      }
+
+      u + .body tp_header_div {
+        mix-blend-mode:difference;
+      }
+
+      
+        @font-face {
+          font-family: 'Optimistic Text Normal';
+          font-style: normal;
+          font-weight: normal;
+          src: url(https://static.xx.fbcdn.net/rsrc.php/yd/r/vu9QUYy2ngT.woff2) format('woff2')
+        }
+
+        @font-face {
+          font-family: 'Optimistic Display';
+          font-style: normal;
+          font-weight: normal;
+          src: url(https://static.xx.fbcdn.net/rsrc.php/yL/r/jfwoHaS3i0K.woff2) format('woff2')
+        }
+        
+
+      a {
+        color: #344854;
+      }
+
+      ul {
+        color: inherit !important;
+        list-style-type: disc !important;
+      }
+
+      .tp_headline {
+          color: #1C2B33;
+        }
+
+        .dark-image {
+          display: none;
+          mso-hide: all;
+        }
+
+        [data-ogsb] .tp_content .bg_meta-gray, .tp_content .bg_meta-gray {
+          background-color: #F1F4F7;
+        }
+
+        [data-ogsb] .tp_content .bg_fb-gray, .tp_content .bg_fb-gray {
+          background-color: #FBF9F6;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-gray, .tp_content .bg_ig-gray {
+          background-color: #F1F4F7;
+        }
+
+        [data-ogsb] .tp_content .bg_ws-gray, .tp_content .bg_ws-gray{
+          background-color: #FCF5EB;
+        }
+
+        [data-ogsb] .tp_content .bg_msg-gray, .tp_content .bg_msg-gray {
+          background-color: #F8F8F8;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-orange, .tp_content .bg_ig-orange {
+          background-color: #FF7A00;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-pink, .tp_content .bg_ig-pink {
+          background-color: #FF0069;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-purple, .tp_content .bg_ig-purple {
+          background-color: #7638FA;
+        }
+
+      @media (prefers-color-scheme: dark ) {
+        /* Override body bg in dark mode */
+
+        a {
+          color: #FFF;
+        }
+
+        .tp_body {
+          background-color: #283943 !important;
+          color: #F1F4F7;
+        }
+
+        .tp_content table,
+        .tp_content td {
+          background-color: #1C2B33 !important;
+          color: #F1F4F7;
+        }
+
+        .tp_content h1,
+        .tp_content h2,
+        .tp_content p,
+        .tp_content span,
+        .tp_content .tp_paragraph,
+        .tp_content b,
+        .tp_content div,
+        .tp_headline {
+          color: #F1F4F7 !important;
+        }
+
+        .tp_content .email-table,
+        .tp_content .email-table table,
+        .tp_content .email-table td {
+          background: #344854 !important;
+        }
+
+        .tp_header {
+          background-color: #323232 !important;
+          display: none !important;
+        }
+        .tp_dark-header {
+          background-color: #283943 !important;
+          display: block !important;
+        }
+
+        .tp_dark-header .dark-image,
+        .tp_header .light-image {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .tp_dark-header .dark-image {
+          background: none !important;
+        }
+
+        .tp_footer{
+          background-color: #283943 !important;
+          color: #F1F4F7 !important;
+        }
+
+        /* Shows dark mode images */
+        .dark-image {
+          display: block !important;
+        }
+
+        /* Hides light mode images */
+        .light-image {
+          display: none !important;
+        }
+
+        [data-ogsb] .tp_content .bg_meta-gray,
+        [data-ogsb] .tp_content .bg_meta-gray td,
+        .tp_content .bg_meta-gray td,
+        .tp_content .bg_meta-gray {
+          background-color: #344854 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_fb-gray,
+        [data-ogsb] .tp_content .bg_fb-gray td,
+        .tp_content .bg_fb-gray, .tp_content .bg_fb-gray td, {
+          background-color: #303030 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-gray,
+        [data-ogsb] .tp_content .bg_ig-gray td,
+        .tp_content .bg_ig-gray, .tp_content .bg_ig-gray td {
+          background-color: #262626 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_ws-gray,
+        [data-ogsb] .tp_content .bg_ws-gray td,
+        .tp_content .bg_ws-gray,
+        .tp_content .bg_ws-gray td{
+          background-color: #111B21 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_msg-gray,
+        [data-ogsb] .tp_content .bg_msg-gray td,
+        .tp_content .bg_msg-gray, .tp_content .bg_msg-gray td {
+          background-color: #303030 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-orange,
+        [data-ogsb] .tp_content .bg_ig-orange td,
+        .tp_content .bg_ig-orange, .tp_content .bg_ig-orange td {
+          background-color: #FF7A00 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-pink,
+        [data-ogsb] .tp_content .bg_ig-pink td,
+        .tp_content .bg_ig-pink, .tp_content .bg_ig-pink td {
+          background-color: #FF0069 !important;
+        }
+
+        [data-ogsb] .tp_content .bg_ig-purple,
+        [data-ogsb] .tp_content .bg_ig-purple td,
+        .tp_content .bg_ig-purple, .tp_content .bg_ig-purple td {
+          background-color: #7638FA !important;
+        }
+
+        .tp_content .tp_button {
+          background: #0064E0 !important;
+        }
+
+        .tp_content .tp_link {
+          color: #FFF !important;;
+        }
+
+        .tp_content .tp_button.no-fill {
+          background: inherit !important;
+        }
+
+        .tp_content .tp_button td, .tp_button td {
+          background: none !important;
+          background-color: inherit !important;
+          color: #F1F4F7 !important
+        }
+
+        .tp_content .tp_button a {
+          color: #F1F4F7 !important
+        }
+
+      }
+
+      [data-ogsb] .tp_header {
+        display: none !important;
+      }
+
+      [data-ogsb] .tp_dark-header {
+        display: block !important;
+      }
+
+      [data-ogsc] .tp_body {
+        background-color: #283943 !important;
+        color: #FFF;
+      }
+
+      [data-ogsc] .dark-image {
+            display: block !important;
+            margin-left: auto;
+            margin-right: auto;
+      };
+      [data-ogsc] .light-image {
+              display: none !important;
+              margin-left: auto;
+              margin-right: auto;
+      };</style><style type="text/css" nonce="wzsQz42C">
+      .tp_body_content {
+          padding-left: 40px;
+          padding-right: 40px;
+      }
+
+      @media screen and (max-width: 700px) {
+        .tp_body_content {
+          padding-left: 8px;
+          padding-right: 8px;
+        }
+      }</style></head><body style="padding:0;"><table align="center" style="background-color:#e9ebee;width:100%;max-width:100%;min-width:100%;" class="tp_body" border="0" cellpadding="0" cellspacing="0" width="100%"><tr align="center"><td style="width:100%;height:24px"></td></tr><tr align="center"><td align="center" class="tp_body_content"><!--[if (gte mso 9)|(IE)]>
+                <table
+                  align="center"
+                  border="0"
+                  cellspacing="0"
+                  cellpadding="0"
+                  width="600">
+                  <tr>
+                    <td align="center" valign="top" width="600">
+                <![endif]--><table border="0" cellpadding="0" cellspacing="0" style="background-color:#e9ebee;min-width:360px;max-width:600px;width:100%;" width="100%"><table align="center" border="0" cellpadding="0" cellspacing="0" style="display:none; font-size:1px; color:#1C2B33; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;background-color: #fff;" width="100%"><tr><td>התנאים למודעות לידים ישתנו ב-10 באוקטובר 2025.  ‌ </td></tr></table><table align="center" style="max-width:600px;width:100%;" cellpadding="0" cellspacing="0" border="0"><tr align="center"><td style="max-width:600px;padding:50px 40px 40px 40px;width:100%;color: #000000;background-color:#FFFFFF;padding:0;background-color:#e9ebee; background-image:linear-gradient(#e9ebee,#e9ebee);"><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="text-align:center;border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;background-color:&#123;$temp_str_680999&#125;;" class="tp_header"><div class="tp_header_div" style="background-color:&#123;$temp_str_680999&#125;;"><img width="150" height="" src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.2365-6/280475574_1857876887745445_6470974999292770004_n.png?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=mviQH0YVTfUQ7kNvwFNA4Vw&amp;_nc_oc=Adk9waDGJf9-6-7ChCRe_i5zIK85RE7euD0qOKKpow7CtfOlB5tIkC5W3W0bxoxguJg&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=14&amp;_nc_ht=scontent.ftlv18-1.fna&amp;_nc_gid=5877ASm8qz4QHeJ1do6hig&amp;oh=00_Afcsbjoz24grGWJr-Nphg0AMqaqbMltnV69xjvj2eUFocA&amp;oe=691223D7" style="border:0;max-width:100%;" alt="Header" class="light-image" title="Image" /></div></td></tr><tr align="center"><td style="width:100%;height:0;"></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="text-align:center;border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;display: none; mso-hide: all;" class="tp_dark-header"><img width="150" height="" src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.2365-6/326176500_708098454042810_6679550825613370363_n.png?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=xA-grbxxOIEQ7kNvwGDHf2H&amp;_nc_oc=AdmZHnhIUyswyR2ZAQ-C7xhY6_K9m3bqB_m9mCTB_f_0_4k8QqkcOOTRfU9PXsIkwXk&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=14&amp;_nc_ht=scontent.ftlv18-1.fna&amp;_nc_gid=5877ASm8qz4QHeJ1do6hig&amp;oh=00_AfeAeuVgYYembHuBXiDwQIGCmYJDBzSsQJ55Pzr7-CQIPQ&amp;oe=69124403" style="border:0;max-width:100%;" alt="Header" class="dark-image" title="Image" /></td></tr><tr align="center"><td style="width:100%;height:0;"></td></tr></table></td></tr><tr align="center"><td style="width:100%;height:24px;"></td></tr></table><div class="tp_content"><table align="center" style="max-width:600px;width:100%;text-align:right;direction:rtl;" cellpadding="0" cellspacing="0" border="0"><tr align="center"><td style="max-width:600px;padding:24px 0px 24px 0px;width:100%;border-radius:8px 8px 0px 0px;color: #000000;text-align:center;overflow:hidden;line-height: 0;background-color:#E8F3FF;"><img width="80px" height="" src="https://static.xx.fbcdn.net/rsrc.php/v4/yB/r/iV9EPLIQZ0o.png" style="border:0;max-width:100%;" alt="Image" class="" title="Image" /></td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table><table align="center" style="max-width:600px;width:100%;text-align:right;direction:rtl;" cellpadding="0" cellspacing="0" border="0"><tr align="center"><td style="max-width:600px;padding:24px;width:100%;border-radius:0px 0px 8px 8px;color: #000000;background-color:#FFFFFF;"><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;color:#1c2b33;font-family:Optimistic Display, Optimistic Text Normal, Montserrat, Helvetica, Arial, sans-serif;font-weight:300;font-size:24px;line-height:36px;text-align:right;margin:0px;" class="tp_headline">עדכונים לתנאים למודעות לידים</td></tr><tr align="center"><td style="width:100%;height:12px;"></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;color:#1c2b33;font-family:Optimistic Display, Optimistic Text Normal, Montserrat, Helvetica, Arial, sans-serif;font-weight:300;font-size:18px;line-height:27px;text-align:right;margin:0px;" class="tp_headline">התנאים למודעות לידים ישתנו ב-10 באוקטובר 2025.</td></tr><tr align="center"><td style="width:100%;height:12px;"></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;color:#1c2b33;font-family:Optimistic Text Normal, Helvetica, Helvetica Neue, Arial, sans-serif;font-weight:400;font-size:14px;line-height:21px;text-align:right;margin:0px;" class="tp_paragraph"> אנחנו מעדכנים את התנאים למודעות לידים כדי להסביר בצורה טובה יותר את השינויים במוצרים ובשירותים שלנו. התנאים המוגבלים למודעות לידים ישולבו מעכשיו בתנאים הראשיים למודעות לידים. השינויים האלה ייכנסו לתוקף ב-10 באוקטובר 2025. </td></tr><tr align="center"><td style="width:100%;height:24px;"></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="text-align:right;border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;"><a href="https://www.facebook.com/nd/?aymt%2Foffsite%2F&amp;c=6433052143420383&amp;t=24967655406220916&amp;p=button_0&amp;n=1761079407444328&amp;m=ASapD0JvEjU_J4Ibuzz7sjnLDGM&amp;b=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2xlZ2FsL2xlYWRnZW4vdG9z&amp;aref=1761079407444328&amp;medium=email&amp;mid=641b0f6ea7e96G5af34e12dcbdG641b140808168Gcdeb&amp;n_m=alona.musiyko%40gmail.com&amp;n_sg=Q6bPBAKBTxjhjK8QKaetEw7aExvpXZd-4SvESnOyNFacqJAsTA&amp;rms=v2&amp;irms=1" style="color:#1b74e4;text-decoration:none;"><table align="right" style="background:#0A78BE;border-radius:4px;color:#FFFFFF;display:inline-block;padding:8px 16px;text-decoration:none;margin:0;" class="tp_button"><tr align="right"><td align="right" style="color:#FFFFFF;display:inline-block;font-family:Optimistic Display, Optimistic Text Normal, Montserrat, Helvetica, Arial, sans-serif;font-weight:500;font-size:14px;line-height:20px;text-decoration:none;width:100%;">לקריאת התנאים למודעות לידים</td></tr></table></a></td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table></td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table></div><table style="width:100%;" align="center"><tr align="center"><td><table align="center" style="max-width:600px;width:100%;" cellpadding="0" cellspacing="0" border="0"><tr align="center"><td style="max-width:600px;padding:50px 40px 40px 40px;width:100%;color: #000000;background-color:#e9ebee;padding:24px 0px 64px 0px;" class="tp_footer"><table align="center" style="max-width:600px;width:100%;" cellpadding="0" cellspacing="0" border="0"><tr align="center"><td style="max-width:600px;padding:50px 40px 40px 40px;width:100%;color: #000000;background-color:inherit;padding:0;" class="tp_footer"><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;color:#67788A;font-size:12px;font-weight:400;line-height:18px;font-family:Optimistic Text Normal, Helvetica, Helvetica Neue, Arial, sans-serif;padding:0px;text-align:center;">הדוא&quot;ל הזה נשלח ל-‏‎<a style="color:#1b74e4;text-decoration:none;">alona.musiyko&#064;gmail.com</a>‎‏ עם עדכונים נדרשים.</td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table></td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;"><tr align="center"><td style="border-spacing:0;color:#1C2B33;font-family:ArialMT, Arial, sans-serif;font-size:15px;width:100%;color:#67788A;font-size:12px;font-weight:400;line-height:18px;font-family:Optimistic Text Normal, Helvetica, Helvetica Neue, Arial, sans-serif;padding:0 20px;text-align:center;"><p style="color:#67788A;font-size:12px;font-weight:400;line-height:18px;font-family:Optimistic Text Normal, Helvetica, Helvetica Neue, Arial, sans-serif;text-align: center;"><span>‏<a href="https://www.facebook.com/business/help/" style="color:#1b74e4;text-decoration:none;">מרכז העזרה לעסקים של Meta</a>‏</span></p>© 2025 Meta. Meta Platforms, Inc., 1601 Willow Rd. Menlo Park, CA 94025</td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table></td></tr><tr align="center"><td style="width:100%;height:0px;"></td></tr></table></td></tr></table></table><!--[if (gte mso 9)|(IE)]>
+                    </td>
+                  </tr>
+                </table>
+                <![endif]--></td></tr><tr align="center"><td style="width:100%;height:24px"></td></tr><tr><td><span style=""><img src="https://facebook.com/aymt/aa/?e=%7B%22c%22%3A%225v1j1m_uud-dii%22%2C%22t%22%3A%22z6_o4oz962jjs9%22%2C%22n%22%3A%22tyf_fz_z_0s9c%22%7D" style="border:0;width:1px;height:1px;" /></span></td></tr></table></body></html></td></tr></table></td></tr></table></body></html>
+
+
+
+================================================================================

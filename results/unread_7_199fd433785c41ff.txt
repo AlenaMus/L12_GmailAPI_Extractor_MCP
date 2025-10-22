@@ -1,0 +1,814 @@
+================================================================================
+EMAIL 7 OF 8
+================================================================================
+Message ID: 199fd433785c41ff
+From: Google Cloud <CloudPlatform-noreply@google.com>
+To: alona.musiyko@gmail.com
+Subject: Account confirmation: Your Google Cloud free trial
+Date: Sun, 19 Oct 2025 09:17:44 -0700
+================================================================================
+
+EMAIL BODY:
+
+Google Cloud  
+<https://c.gle/AF5yWjBflvLnCCosQ1PYBl5LEMz58mXGcF7cvd9VkvvseaYgiss9c5TS-3HgEf1CL67kJEu_qu6IaKjFChtIzFMEGcHRm0xVALSY-PKyjZ6YFdfTGiIO4k0i7OKA64lzsGLX_7vZYHQiCnoIx3rJj69nkDlKluJiHQtWo0Hvy0i4ZYJP3sbYovi1BuuuDf8nwhMxLwgTVMxAVUFQJ_mQm6wrhX0Xw544EF3hZTZASyVPLyAjY0A3xpWsSaL7zV_EUt8-zLK3MQ>
+
+Go to my console  
+<https://c.gle/AF5yWjAAYwy5gtXNpQLGkHF5UO_SLWoWSyO7PVJgglLjOjRtFVEZfJg3sJWAzUgsXdttjW5pZlKLWi3DqU_XcapZeTWHAvyDIEQi1PmhEgu9k33bNjO2xODH4PHADvs-SxES1WMjLfIMRfHN6feInslvCDQwYaIm9y05t10-D448vJXeM0Kzfx_7VtNwmGIeKAvz8ewHTn2kgq2_j6x6s4pXXUr_n3XPUMhXbAzpBFJZiW8NUjDOi2aNA2rfXBDEiV_8jdA8Jbwa-M5V3cGeQrZk>
+
+Welcome to Google Cloud.
+
+Learn the fundamentals with this tutorial  
+<https://c.gle/AF5yWjA6tz9sucDE3gmQ30liWpqzNj29nZJL0OE_8bTe8xRT5L6x0c1hFLgqUTiZ5lCn380mksrbfBnxHMv5gkMldHuZiFFe8tAdcnAa6Tt0v-I3afHpUvG-WVgcaMAIdCfUse7TNx0r1y-x_L8vVAc0BolK9KZPhCxLz-9ntM-C0Jp0TcAn9zseGkdFBUbwHZg4BncKatkY9Jus-54PQhel6A1M5VIkma3-NQEUKJ1JuXuXFq0Rj4eAaiJDLj8EePjkRlioa_c1PZ7WrKxUu60nQTLxpMmSaZyEv2q8THrRZJIg4qDnrqXMb3wMeDRAr0nUsePtBEvPnbgUzBY7PyZf3dcyuQO6SYtof1p6fyWkv6coFHU>  
+– and see what else you can do for free on Google Cloud with our Always  
+Free tier.
+
+Go to my console  
+<https://c.gle/AF5yWjA58KOK_ALNC97AWD-7enwjQcpVaINznlYaT8ibFc4rNJJbo35zdYJ6Or27-Oa4l8WDlFepmtR8a0mwczLG-OUIK9tV_5sn-9pM9RdJxJZgnnFJIwxeiMVzSkrXzxJfJifdp7EHnPsLLy4l0KyZ75p6jN3yhpvCH7XjNZb94xINQGvzEEchLBK0ytyEjn8qDuDJ91mws9oDlIhdYHs4leGWbsdpvhPjvzUfncBicI5zRbXPoUHqY7vI1xofX7nCMwVUx4OUJR0Zvvr1r1p8NDTrxmKD610dQnWdN_GSgmSumg>
+
+Beginning today, you have $300 USD in credit which you can use to:
+
+- Evaluate Google Cloud risk-free*
+
+- Explore a wide range of Google Cloud products and services – from Compute  
+Engine  
+<https://c.gle/AF5yWjCxJSMmQ_QfacWFDLMtNLNNSPc09qYBElipfjTAALSrJnGzTYR9ZBUx4jwaM81uWgL-TZZ3-2fnL_S1H7Z_iuCMaR_x_KYKGGsJPuC8sShOtqMupnO3y4IAv-xLMrILd7Phsp2Y5ZlW3LYUQAHsCEkWQKIwPK95imgUiec>  
+and BigQuery  
+<https://c.gle/AF5yWjAkjk00iG1d0kbdH5gkXkzndN_w5AIIyky4_GipQVc0puqCwA5xjABQjP79mykIaLUgi3JI9ff4G8igUs1eE7CHzqGh2T2UlKPy4uy4IqC6n85vlGJz4xkcYzKfhqZAjzds9L8CA0ZIgTX5MBVk>  
+to industry-leading AI  
+<https://c.gle/AF5yWjCOKPZWq2uHR83nNh6oabz6MiNt6UJOWOF-dPLvCWnOZUPAdeTtirs1pohNingu1DZ7Gl_8f3fk6OxoxNkFbI-OhwvC3oFWu1a37jOTaIIjmYXhhBYWGm4I9EdTxThSHkkhRA9PeRV66IKtyWCk4oR5QXSz9ZVqplhOcGQOmW5AB4ti>.
+
+- Easily check your credit usage by visiting the billing section  
+<https://c.gle/AF5yWjC7QJMJRCr6CBLhwOvhAcCqf4eW-aVvEE4VMfLFqlebxrhe2AJfNoIbjujFU6GMoeDqn0B_PeBB63Pl7tTMAaOLO9CR-wCxOPYTm46c4tzZA93ztzhS5NrNmil_kmv_R6-A_9eCsGeWOzMV8Y-Vt3qmkWq6>  
+of your Google Cloud console
+
+
+See what’s always free.
+
+Before diving into your free trial, take a moment to explore over 20  
+always-free products in our Always Free tier  
+<https://c.gle/AF5yWjBRPg42gm0acF_Tb5iEwSBoD4W4_4Nn3Exlp30exeBDUZopkAh3QE6CG1OesVQX2OTUoEBGte5aI4wFOLwp1WoN2tizH8teVqXeyP_ZD-zDI4qTPQG94vVBMJohhE3nlQ0bSC28kYKW-PYepozBy_K7FuFd9QmcsQkXiP9BBB3UcwCrm8vkrAYGL_6o1ELLNxpr8JjSrhg-M1c3K0mMXQtSqfM0TvfuutkwxlTlBobjn0RAJJxGQGhvIyKrX2jWPX0VT0CSoC1LAMDmGphh8rZrnCA4LumUz6KIjgZDjue36Mgbnitm-4mHtTTAfRe8b09SK8BYn81IEOcF>.  
+There’s no charge or credit cost to use these products up to their  
+specified usage limit.
+
+Get hands-on now with this quick Cloud console Tour  
+<https://c.gle/AF5yWjCaEZIZep_2INXMcmsbSiq1nrd3uvpR40yFqfKquYQ3Xipv4-xPmw3pzGhaDP8_vG8tNnbegOaC_iz4HpZYMLVSBGwNNrhaW28W8lzkrmbfX2RzLC1QJj_iSvLcetb169b4Eh9V8oZ17_Jy5FmK3HOG5nkkTUR0bf6_20GiF8DTh533TTaUEWPJqoV5GVyLUYHWlHJthKKNdDrv9AvtDcGTfPAXTv-CytYBqcYCLPZdUxltGcTKnG7acRYvndTsuE1W_UYEayasu3HG0nClzTBDFeupPQrq4lJQegtZfWXgJEXYI4HCDrmp2QghNLWblVnljZYDRKOddVBGMQsfb9q4LMqlTyaTYhg3WQOzf7G5P63F8xYMNqDmg1CBHyUy>,  
+highlighting how to easily navigate, organize, and manage your projects. To  
+start exploring on your own, just visit your Cloud console.
+
+Go to my console  
+<https://c.gle/AF5yWjAoyDloE3rw1GdbQYg5zrzxi0F8DMu70DTj5JdS7ap8mFlXC1auO6ng01AMctOXez99E94FNtfPduoMFi29joWDWGgGdQCtVmw-j4iNOUBUk2K6tZvgSSVNCdAGNtC_U7qI3TafJK89g1uD1IuP4DGGhhtDbFyUp6rClZq9yFtR77N2eVqlv66f3pPnDCI_o8mFPHFm5fwjA3i20-mEkKjpUDyAc_88BOUOlBbfkRpznJInSylIGxUQdqZtMHtDNSaXkCNZCnPo-bPU0GH0xd8pSLaBS4RLTWpY08X2Y72n>
+
+See you in the cloud,
+The Google Cloud Team
+
+* Your free trial stays free. If you use a credit or debit card, there’s no  
+charge unless you turn on automatic billing. If you use NetBanking, you can  
+request a refund of your one-time prepayment by closing your Cloud billing  
+account.
+
+
+Support  
+<https://c.gle/AF5yWjAZa70mKh6b0C-3uUfG8sVcTuQuP1ROqpetxzpW5J7KOa76xZEZPGR7jj71rghdxsikEyPaam_wc3_J3OHH6gs-MPQyRzcPo5pex5YMdRh8aNjAD5Jfn3rzItlzzHbJQaQ0Z3lb299OBeNbw5XGWd9BIsa1cWCwe8968JmRF9_E-CeC-VtNSDkBh45-55L9pP6gMubJxw6tHtZj5bTm3aHFGbSJ7a1L6IZT5P8B5v_md-1jNO3z85SXy-0HWfyn6RVfmXoyUcyp1Bo_sw>
+
+Forums  
+<https://c.gle/AF5yWjAN-QBS9cahmRerijgYNJgrrLQYUCMcZJugjLUZ5FfGVqISYYJGq9FrBeNwftnX-iOgMXLTFmMoSySFPOBUFF-P2AEB92fxynEnqpbKSuhLv2SuHzw9vopsFa_6alcN2eqHudfbJGbX>
+
+Documentation  
+<https://c.gle/AF5yWjCEapcA9h2eteJDGg473GI0YKfBt_sedHLZmCDhOqO1qFJwLKXaXd7uNo690oMW_IANaPU8THWEewsgOBZqGWxvaYI6kQ_O3WdtzmorZweE0B0de_O0mFb_60fZTHNpvIoyJ25aiLINWiqGAs5xdwpcxPO0o11NRDAM0xPifMiq5iOs8kiN0NQTExNf_SFyn4fBGpiXLJnnPxzPPzoG4KyAhzhxUAPzPzB7Hkgz7zamjhxwuP2vra1G7m7PvIhuiNaDHv7rHCIH5aVT>
+
+Tutorials  
+<https://c.gle/AF5yWjDJxH8KINsu9f0oNo9VCIul61Rny8M4LXB9KzMqYv_3grttBDS2ZLIAeDmrHjZNFww4PzO4t4IF8G1QOdNiMXr922nONuASA6oEO8TW4I0zLv7b4oTHHtIg3qRQG0nD54PcurWV9fhnhxGsKJff7tgY9SVXuefXNM-QUAOeYLjcA28JMZ4NaNYbQKfPmOqcVkYBQMRF3FEoo_qvHIvJXEv_nrVwwE8GcHIbVP8qKT9d2rNPBQHrrNeBJ4a7N76SzGD_tNnQPwzqVRz6JsGDWd82>
+
+Google Cloud
+
+Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+You have received this mandatory service announcement to update you about  
+important changes to Google Cloud or your account.
+
+
+Google Cloud Blog  
+<https://c.gle/AF5yWjCCRrq4QnRtqz34hESjOCJ4v6JFGMkNBoChvyHbRZKNkikXBMn5B2FSfpy4gvXfPs1-SKpEb8GQuRdqtcxoB3vt_TQesZ7wSvlCLZMd1Vf-3XEeslFC-LROLQhRfdfozccWC8Ep5g6-QWftW551d7lNqood8We7SBFEJfQV3JVPxnmUMaW_TBaHvMm-c4_Gi5FMOV1cxBXAi6OLMYEaZT7qTgQsOCcYN5FqPFnnd4MJAtXvDiriGJFBGPwHraUI8Kds>
+
+GitHub  
+<https://c.gle/AF5yWjBWOih5pQGaTZKv6KuT9J7gjhfaMJfvrYz5Hb893d3RF0_TVr8gpT25mnP7bo8nOlFo0FufsFjAL4iTSzdKRk-1a96ie7ZYRX4dSdt0W07oEGdl4jhCUcVUp5Gg4zWLnTGNuXU4SvmXwQ>
+
+LinkedIn  
+<https://c.gle/AF5yWjCxQDPFmGDZKcrdcJefqDk8ihopgurRoT1jHsRXcvVn9SNGiS6ebSkMmqlvTCY1hohj-p1RWhYn3v6dpfYhU9HETkYu2ixVRCNzzARln_4eqNJlmF-aONKUXuWZdATwl-8UKhmeOXIzPfRYM7j-R0sb8LzU>
+
+Twitter  
+<https://c.gle/AF5yWjBpURLA39Jjb6vYhH4yGnmOYLRKa5aS_9jnL6SDiaQVALT2weflrfVPOMXfNPj_TyjZLD6RdH2fW6_34oiSGxbISe4_yjKxVlpYIrDQcaTDPCmJx3Xzbc2hjWVfYkwZsKXW1g>
+
+Facebook  
+<https://c.gle/AF5yWjBRznop269IxH4ugjWkFBehCl-dvRfDgzQqLy2Y-U69jmZtqy7OrppxgvWzp4v_SQVzsW5ZJxQAQIfAlmD8GvKmH6xqiymMC7vbI5RMGbSGwCnG0Unl_SzSAoAya0yZRO6fCPMzeK7rgp8>
+
+
+
+
+
+ 
+
+
+
+  
+  
+  
+  
+
+
+ 
+   
+ 
+
+
+
+
+
+
+   
+
+  
+
+  
+   
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+  
+   
+ 
+<!DOCTYPE html>
+<html dir="" , lang=en>
+
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+    <meta name=viewport content=width=device-width,initial-scale=1.0,user-scalable=yes>
+    <title>Account confirmation: Your Google Cloud free trial</title>
+  <style>
+    
+    .appleLinks a {color:#3C4043;text-decoration:none;}
+    
+@media screen and (max-width:737px) {
+  .flexible {
+    
+    max-width: 600px !important;
+  }
+
+  .body {
+    padding-left: 10px !important;
+    padding-right: 10px !important
+  }
+  .webkit { width: 100% !important;
+  }
+ 
+  .logo_holder_container {
+    padding: 32px 22px 29px 29px !important;
+  }
+  
+  .logo_holder_td {
+    padding-left: 25px !important;
+  }
+
+  .logo_right_holder_td {
+    padding-right: 25px !important;
+  }
+
+  
+}
+  @media screen and (max-width:414px) {
+   .flexible {
+    width: 100% !important;
+    max-width: 600px !important;
+  }
+  .body {
+    padding-left: 10px !important;
+    padding-right: 10px !important
+  }
+     .pad-mb{
+       padding: 26px 21px 14px 15px !important;
+     }
+     .contents {
+		display: inline-block !important;
+		width: 100% !important;
+        padding-bottom: 18px;
+  }
+
+    .logo_holder_container {
+    padding: 28px 11px 29px 11px !important;
+  }
+
+    .bigger_wrapper_body {
+      padding-left:25px !important;
+      padding-right:25px !important;
+    }
+    .main_heading {
+      padding-right:0px !important;
+    }
+    .main_heading_2 {
+         padding-left:25px !important;
+      padding-right:25px !important;
+    }
+ .sub_heading_trigger_em1 {
+      padding-right:0px !important;
+    }
+    .header_image_td {
+     width: 100% !important;
+    }
+    .desk_header_image {
+      display: none !important;
+    }
+    .mob_header_image {
+    display: block !important;
+    }
+    .headline {
+		font-size: 24px !important;
+		line-height: 32px !important;
+ 
+    }
+    .sub_head{
+     padding-right:25px !important;
+ 
+    }
+    .grey_sec {
+      padding-left:25px !important;
+      padding-right:0px !important;
+         padding-right:25px !important;
+    }
+ .grey_td {
+      padding-left:25px !important;
+      padding-right:25px !important;
+    }
+ .grey_td_1 {
+      padding-left:25px !important;
+
+    }
+    #btn_outer_cover {
+      padding-right:25px !important;
+    }
+    .five-column {
+    padding-bottom:5px !important;
+      padding-left:0px !important;
+  }
+    .footer_wrapper_td {
+      padding-left:25px !important;
+      padding-right:25px !important;
+    }
+    .social_icons_container {
+      padding-left:10px !important;
+      padding-right:25px !important;
+    }
+    .bottom_link_footer_td {
+      
+    }
+    .bordertd {
+      padding-right:25px !important;
+    }
+    .new_mod_td {
+      display: block !important;
+      width: 100% !important;
+    }
+    .pad_top {
+      padding-top:10px !important;
+    }
+    #ft3
+    {
+      padding-right:6px !important;
+    }
+    #ft4
+    {
+      padding-right:7px !important;
+    }
+      .ja_only{
+    display: none !important;
+  }
+}
+@media screen and (min-width: 812px) and (max-width: 812px),
+screen and (min-width: 736px) and (max-width: 736px),
+screen and (min-width: 667px) and (max-width: 667px),
+screen and (min-width: 568px) and (max-width: 568px),
+screen and (min-width: 414px) and (max-width: 414px),
+screen and (min-width: 375px) and (max-width: 375px),
+screen and (min-width: 320px) and (max-width: 320px) {
+  .body {
+    min-width: 100vw !important;
+  }
+}
+  </style>
+</head>
+
+<body class=body bgcolor=#f8f9fa style="-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%; border:0; background-color: #f8f9fa; font-family:Google Sans, Roboto, Arial; font-weight:normal; margin:0; padding:0; width:100%; box-sizing: border-box;" width=100%>
+         <div class=webkit bgcolor=#f8f9fa style="margin:0 auto; padding:0; background-color: #f8f9fa;">
+           <div style="height:0px; font-size:0px; max-height:0px; min-height: 0px; line-height:0px; width: 100%; color: #fff; display:none;">Get started fast – and see what’s always free on Google Cloud.</div>
+      <section>
+        <!--[if mso]>
+	<table role="presentation" class="bigger_wrapper flexible" width="600" align="center" cellspacing="0" cellpadding="0" border="0" style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Google Sans, Roboto, Arial; font-weight:normal; margin:0 auto; width:600px; max-width:600px; mso-table-lspace:0; mso-table-rspace:0;">
+<![endif]-->
+
+                                <!--[if !mso]> <!---->
+      <table role=presentation class="bigger_wrapper flexible" width=600 cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Google Sans, Roboto, Arial; font-weight:normal; margin:0 auto; width:600px; max-width:600px; mso-table-lspace:0; mso-table-rspace:0;">
+        <!-- <![endif]-->
+
+ 
+  <tr>
+            <td class="bigger_wrapper_header flexible" style="border-collapse:collapse; margin:0; max-width:600px;">
+
+              <table role=presentation bgcolor=#f8f9fa class=outer style="background-color:#f8f9fa; -premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; margin:0 auto; max-width:600px; mso-table-lspace:0; mso-table-rspace:0; width:100%" cellpadding=0 cellspacing=0 width=100%>
+            <tr>
+              <td id=logo_above_space class="two-column logo_holder_container" style="border-collapse:collapse; font-size:0; padding:24px 22px 14px 29px;">
+                <!--[if (gte mso 9)|(IE)]>
+                <table role="presentation" width="100%">
+                <tr>
+                <td width="50%" valign="top">
+                <![endif]-->
+                <div class=column style="display:inline-block; float:left; max-width:337px; vertical-align:top; width:100%" valign=top width=100%>
+                      <table role=presentation width=100% style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0" cellpadding=0 cellspacing=0>
+                              <tr>
+                                  <td class=inner style="border-collapse:collapse; font-size:15px; padding:5px 0 0 0">
+                                      <table role=presentation width=100% class="logo_holder flexible" cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:roboto, arial; font-weight:500; mso-table-lspace:0; mso-table-rspace:0; width:100%">
+                                          <tr> 
+                                            <td style="border-collapse:collapse; text-align:left;">
+         <a href=https://c.gle/AF5yWjDQW_j2Fba7V_G10oYSii__zQ9dkWHY-GEzIpDwSCnadO4XO_jkBA4flIfw5rVE-gerMTbd7rEkcD7ubAiF8bw9u1XY0py9SL5IGPO4QWx1Lcq2Ir3Q-HYqGJFswkSdjgqkIyt4KmEO1q3CpGMsyU7Bm7vYYCw48rGw2S-Bnqmp7cBeaqsiCFrxaglI7fvYfOf_5bnoXLOLyF-Gus6yBOCx7pIHNvE571EtuB6y4xE0-iZI1ZQURDJJSYPvUoXcaXvagZxC target=_blank><img class=banner_logo src=https://services.google.com/fh/files/emails/logo-new-gcp.png width=202 alt="Google Cloud" style="-ms-interpolation-mode:bicubic; height:auto; outline:none; text-decoration:none;width:202px;padding-top:8px; padding-bottom: 8px;" height=auto></a>
+                                            </td>
+                                          </tr>
+                                      </table>
+                                  </td>
+                              </tr>
+                      </table>
+               </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td><td width="50%" valign="top">
+                <![endif]-->
+               <div class=column id=columndiv style="display:inline-block; float:right; max-width:209px; vertical-align:top; width:100%" valign=top width=100%>
+              <table role=presentation width=100% style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0" cellpadding=0 cellspacing=0>
+                  <tr>
+                   <!--[if gte mso 9]>
+             <td class="inner1" style="border-collapse:collapse; font-size:15px; padding:7px 0 0 0">
+
+<![endif]-->
+
+<!--[if !mso]><!-->
+             <td class=inner1 style="border-collapse:collapse; font-size:15px; padding:11px 0 0 0">
+<!--<![endif]-->
+
+
+                         <table role=presentation width=100% class="logo_right_holder " cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:roboto, arial; font-weight:500; mso-table-lspace:0; mso-table-rspace:0; width:100%">
+                             <tr>
+                                <td class=logo_right_holder_td style="border-collapse:collapse; padding-right:0; padding-top:0">
+                                   <table role=presentation class="logo_right_holder_inner flexible" cellspacing=0 cellpadding=0 border=0 width=100% style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:roboto, arial; font-weight:500; mso-table-lspace:0; mso-table-rspace:0; width:100%">
+                                        <tr>
+                                            <td class=logo_right_holder_inner_td width=100% style="border-collapse:collapse; color:#1967D2; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:20px; padding-top:6px;text-align:right" align=right>
+                                            <a target=_blank href=https://c.gle/AF5yWjDr2HkKKThVxZRGca9NvKBDpJHOnplt8NkQDydR9vQpN0F4jGq0Ob0iq_mL6L2mSNnlsn8aapwnh7aLgji02XpJHdf_UwLaRpoKkzamIQC-lG94YMGFAOwGQ58Ev_2gJvndX1DoF4wt4i8hih1kHHRl-4zJzZOIuFW6X72ebJdo1GtfIwvq7XE1_NUSxSaPLWYFJenEEfNM_pYfjo1Tthlz6hF1St9ZWnKx7paS62KB_G9UoomTb6yluapdl9Lc9v2rcTr402zyKx2DxPt7pMo style="color:#1967D2; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:20px; text-decoration:none;letter-spacing:0.25px;" target=_blank class=console_text>Go to my console</a>
+                                            </td>
+                                          <td style="padding-left: 10px; padding-top: 4px;">
+                                            <table role=presentation cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0;">
+                                                  <tr>
+                                                    <!--[if gte mso 9]>
+													<td style="padding-top:4px;">
+													<![endif]-->
+                                                    <!--[if !mso]><!-->
+                                                    <td style=padding-top:0px;>
+													<!--<![endif]-->
+                                                        <a target=_blank href=https://c.gle/AF5yWjDr2HkKKThVxZRGca9NvKBDpJHOnplt8NkQDydR9vQpN0F4jGq0Ob0iq_mL6L2mSNnlsn8aapwnh7aLgji02XpJHdf_UwLaRpoKkzamIQC-lG94YMGFAOwGQ58Ev_2gJvndX1DoF4wt4i8hih1kHHRl-4zJzZOIuFW6X72ebJdo1GtfIwvq7XE1_NUSxSaPLWYFJenEEfNM_pYfjo1Tthlz6hF1St9ZWnKx7paS62KB_G9UoomTb6yluapdl9Lc9v2rcTr402zyKx2DxPt7pMo style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:20px; text-decoration:none;letter-spacing:0.75px;" target=_blank class=console_text aria-hidden=true><img src=http://services.google.com/fh/files/emails/gcp_right_arrow.png alt="" width=16 border=0 style="line-height:20px; width:16px; vertical-align:middle;border:none;" /></a>
+                                                    </td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                   </td>
+                                 </tr>
+                               </table>
+                        </td>
+                      </tr>
+                    </table>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+            </td>
+         </tr>
+       </table>
+            </td>
+        </tr>
+           
+<tr>
+  <td class="bigger_wrapper_header flexible" style="border-collapse:collapse; margin:0; max-width:600px;">
+  <table role=presentation bgcolor=#ffffff border=0 cellpadding=0 cellspacing=0 width=100% style="border-radius: 3px; background-color:#ffffff; max-width:600px;">
+  <tr>
+      <td class="bigger_wrapper_body flexible" width=100% style="border-radius: 3px; border-collapse:collapse; margin:0; padding-bottom:0px; padding-top:0px;font-family:Google Sans, Roboto, Arial;background-color:#ffffff; padding-left:50px;padding-right:50px;">
+      <table role=presentation width=500 class=flexible cellpadding=0 cellspacing=0 border=0 style="width:500px; max-width:500px;">
+<tr>
+<td class="flexible main_heading headline" style="border-collapse:collapse; color:#3C4043; font-family:Google Sans,Roboto,Arial; font-size:32px; font-weight:500; line-height:40px; text-align:left; padding-bottom: 0px; padding-top: 40px; padding-left:0px; padding-right:46px; word-break:normal;">
+Welcome to <span style=" white-space: nowrap;">Google Cloud.</span>
+</td>
+</tr>
+<tr>
+<td class="flexible sub_head" style="border-collapse:collapse; color:#3C4043; font-family:Google Sans, Roboto, Arial; font-size:16px; font-weight:normal; line-height:26px; text-align:left; padding-bottom: 0px; padding-top: 11px; padding-left:0px; padding-right:0px; word-break:normal;">
+Learn the fundamentals with <span style=white-space:nowrap;><a href=https://c.gle/AF5yWjBpUDKtU0Qp1NjnU12AvShnOIlEV9eNd6S0nZjkCBjjYhmDT5YEZAP4USnPRNjsxIndSq4KqkdbW8piz3YSpYCXHSfW4LMAR85d81SZGka0vIPgV5K9j_fo6BuTxNa-cZr-XJp3raWgd-wDovywdwvjvnmSCpamX3zTBdXgrCbMg0qKpgllgKbaiNFQt0iS9Iib9MKcjIs5_uyDK3pzFNAAYVyjWErJoGOOJFW7kZWQKUZQnhS_BU8JJ4D03JyB6yE_0KvXnjNkIyy_gxCmA92d671jPisjudTWrIQxLnzN4AP4WmZQAr4tp-zaa9PSGJa-MGtPR_IvfV0SxeFRdHkKuYRPlzgO_FN_mf_TKTBBTOlZmg target=_blank style="color:#1A73E8; text-decoration:underline; ">this tutorial</a> –</span> and see what else you can do for free on <span style=white-space:nowrap;>Google Cloud</span> with our Always Free tier.
+</td>
+</tr>
+      <tr>
+          <td id=outer_cover align=left style="border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; padding-top:32px;padding-bottom:0px;">
+    <table role=presentation class=bluecta style="margin: auto; -moz-border-radius:3px; -premailer-cellpadding:0; -premailer-cellspacing:0; -webkit-border-radius:3px; border-collapse:collapse; border-radius:3px; color:#1a73e8; font-family:Google Sans,Arial; font-weight:500; mso-table-lspace:0; mso-table-rspace:0;" height=40 align=left bgcolor=#1a73e8 cellpadding=0 cellspacing=0>  
+    <tr>
+      <!--[if gte mso 9]>
+	   <td style="padding: 10px 7px 10px 8px; border-collapse:collapse">
+		<a  style="-khtml-border-radius:2px; -moz-border-radius:3px; -moz-border-radius-bottomleft:0; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:0; -moz-border-radius-topright:3px; -ms-border-radius:2px; -o-border-radius:2px; -webkit-border-bottom-left-radius:3px; -webkit-border-bottom-right-radius:3px; -webkit-border-radius:3px; -webkit-border-top-left-radius:0; -webkit-border-top-right-radius:3px; background-color:#1a73e8; border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-color:#1a73e8; border-radius:3px; border-style:solid; border-top-left-radius:3px; border-top-right-radius:3px; color:#ffffff; display:inline-block; font-family:Google Sans, Arial; font-size:14px; font-weight:500; line-height:24px; margin:0; mso-hide:all; text-decoration:none" target="_blank" target='_blank' href="https://c.gle/AF5yWjAWP5nCUYQOsps13mlnSnbybWdX_UvYtpnZRz5ErJ7P5uxYutSBL28pcX9QM26KnRlu7UeA0f5tLAwDF--uPqSz6JXDq2qfxw87YlucJPb7ZkPNezb8lMuNW_CrZPDuuR8U6pWm8DW7g8sF97UYpMGhOS0dhbQC1Nlb-9tWnVC-XGdyD2011sEXWZNQmMmQypQQxHTh8QVsuwCDBVa2WrtKXqLQ1KTbFeWkYDCjPr-l_V1vMvwrZri6UwVg9jG8kqbgVCOEEPxTEdckVoZuOgBNPLHwWhvIjZ8ft29XxHxuXTpQ" bgcolor="#1a73e8" >
+         <span  style="-webkit-text-size-adjust: none; display: block;padding-left:7px;padding-right:9px;">Go to my console</span>
+         </a>
+     </td>
+<![endif]-->
+					<!--[if !mso]><!-->
+      <td style=border-collapse:collapse>
+		<a style="-khtml-border-radius:2px; -moz-border-radius:3px; -moz-border-radius-bottomleft:0; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:0; -moz-border-radius-topright:3px; -ms-border-radius:2px; -o-border-radius:2px; -webkit-border-bottom-left-radius:3px; -webkit-border-bottom-right-radius:3px; -webkit-border-radius:3px; -webkit-border-top-left-radius:0; -webkit-border-top-right-radius:3px; background-color:#1a73e8; border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-color:#1a73e8; border-radius:3px; border-style:solid; border-top-left-radius:3px; border-top-right-radius:3px; color:#ffffff; display:inline-block; font-family:Google Sans, Arial; font-size:14px; font-weight:500; line-height:24px; margin:0; mso-hide:all; text-decoration:none" target=_blank target=_blank href=https://c.gle/AF5yWjAWP5nCUYQOsps13mlnSnbybWdX_UvYtpnZRz5ErJ7P5uxYutSBL28pcX9QM26KnRlu7UeA0f5tLAwDF--uPqSz6JXDq2qfxw87YlucJPb7ZkPNezb8lMuNW_CrZPDuuR8U6pWm8DW7g8sF97UYpMGhOS0dhbQC1Nlb-9tWnVC-XGdyD2011sEXWZNQmMmQypQQxHTh8QVsuwCDBVa2WrtKXqLQ1KTbFeWkYDCjPr-l_V1vMvwrZri6UwVg9jG8kqbgVCOEEPxTEdckVoZuOgBNPLHwWhvIjZ8ft29XxHxuXTpQ bgcolor=#1a73e8>
+         <span style="-webkit-text-size-adjust: none; display: block;padding-left:16px;padding-right:15px; padding-top:9px; padding-bottom:9px;">Go to my console</span>
+         </a>
+     </td>
+      <!--<![endif]-->
+   </tr>
+</table>
+    
+           </td>
+        </tr>
+        <tr>
+          <td class=header_image_td width=500 style="width: 500px; padding-top:31px; padding-bottom:0px; ">
+            <img class=desk_header_image alt="" src=http://services.google.com/fh/files/emails/izzuzz_mainimage_2x.png border=0 height=200 width=500 style="height: 200px; width: 500px;" />
+            <!--[if !mso]><!-->
+            <img class=mob_header_image alt="" src=http://services.google.com/fh/files/emails/izzuzz_mainimage_2x.png border=0 height=auto width=100% style="display: none; width: 100%; height: auto;" />
+            <!--<![endif]-->
+          </td>
+        </tr>
+<tr>
+<td class="flexible main_heading" style="border-collapse:collapse; color:#3C4043; font-family:Roboto, Arial; font-size:14px; font-weight:normal; line-height:24px; text-align:left; padding-bottom: 0px; padding-top: 23px; padding-left:0px; padding-right:0px; word-break:normal;">
+Beginning today, you have $300 USD in credit which you can use to:
+</td>
+</tr>
+<tr>
+          <td align=left class=lrpd style="text-align:left; padding-left:0px; padding-right:0px; padding-top:15px; padding-bottom:0px;">
+            <table role=presentation width=500 cellspacing=0 cellpadding=0 border=0 class=flexible style="width:500px; -premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0;">
+              <tr>
+            
+            <!--[if gte mso 9]>
+						<td width="24" class="img1" style="font-size:14px; line-height:28px; vertical-align:top; padding-top: 0px; text-align:left" valign="top">
+                   <img src="http://services.google.com/fh/files/emails/ic_data_usage_4px.png" alt=""  style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; height: px; width:24px;vertical-align:top;" width="24"  height="">
+				</td>
+					<![endif]-->
+              
+					<!--[if !mso]><!-->
+                <td width=24 class=img1 style="font-size:14px; line-height:24px; vertical-align:top; padding-top: 1px; text-align:left" valign=top>
+                   <img src=http://services.google.com/fh/files/emails/ic_data_usage_4px.png alt="" style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; height: px; width:24px; vertical-align:top;" width=24 height="">
+				</td>
+                   <!--<![endif]-->
+                <td class=imgtd style="font-size:14px; line-height:24px;padding-top:0px;padding-left:24px;padding-right:0px; vertical-align:top;">
+                  <table role=presentation class=flexible cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0">
+                    <tr>
+                      <td class=inner_imgtd style="color:#3C4043; font-family:Roboto, arial; font-size:14px; line-height:24px; font-weight:normal; padding-bottom:0px; padding-top:0px;word-break:normal">Evaluate <span style=white-space:nowrap;>Google Cloud</span> <strong><span style=white-space:nowrap;>risk-</span>free*</strong></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+<tr>
+          <td align=left class=lrpd style="text-align:left; padding-left:0px; padding-right:0px; padding-top:15px; padding-bottom:0px;">
+            <table role=presentation width=500 cellspacing=0 cellpadding=0 border=0 class=flexible style="width:500px; -premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0;">
+              <tr>
+            
+            <!--[if gte mso 9]>
+						<td width="24" class="img1" style="font-size:14px; line-height:28px; vertical-align:top; padding-top: 0px; text-align:left" valign="top">
+                   <img src="http://services.google.com/fh/files/emails/ic_explore_24px.png" alt=""  style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; height: px; width:24px;vertical-align:top;" width="24"  height="">
+				</td>
+					<![endif]-->
+              
+					<!--[if !mso]><!-->
+                <td width=24 class=img1 style="font-size:14px; line-height:24px; vertical-align:top; padding-top: 1px; text-align:left" valign=top>
+                   <img src=http://services.google.com/fh/files/emails/ic_explore_24px.png alt="" style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; height: px; width:24px; vertical-align:top;" width=24 height="">
+				</td>
+                   <!--<![endif]-->
+                <td class=imgtd style="font-size:14px; line-height:24px;padding-top:0px;padding-left:24px;padding-right:0px; vertical-align:top;">
+                  <table role=presentation class=flexible cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0">
+                    <tr>
+                      <td class=inner_imgtd style="color:#3C4043; font-family:Roboto, arial; font-size:14px; line-height:24px; font-weight:normal; padding-bottom:0px; padding-top:0px;word-break:normal">Explore a wide range of <span style=white-space:nowrap;>Google Cloud</span> products and <span style=white-space:nowrap;>services –</span> from <a href=https://c.gle/AF5yWjCR7Dgi6P-FxhwpwK1_JC1g1RknTJh7_hsXMgHk_XliR_oUIwAjArbDCzc9rHBeQkP9EfGK4shECvWUZ9nFQ8jzzfKWtoVji5UB_boAPvcMbptpeROT6AoJNC5cKlqazwTumQHWwMEC88fu4l0MZCPwIQt3joO_v8sUqw6Leg target=_blank style="color:#1A73E8; text-decoration:underline; ">Compute Engine</a> and <a href=https://c.gle/AF5yWjBZIdj9Svc6bT0Kjjk7ijtQxonkk-4BACNZKkbCDruhdbcmWtXfwY4zTOvEmpi_ytBDI190h_IF4s4XYugBYudI4r9_m2bvAuHTllk8tOl6bkpnvdkAiYvcwFag_3Pj4icBCqaExfvnnRIf8TY_jm0 target=_blank style="color:#1A73E8; text-decoration:underline; ">BigQuery</a> to <a href=https://c.gle/AF5yWjCu2GkSYcS0Skyc8-abMoTnDk2hyhGQ9ZRbDvpkngMOz9BucV7a5R3mBj7SE9VLH6JzF_zVzblO4A7nVa-Hxo7_ZqeLxNrxnMLjicqmv559ECY6lcIXGR6cBzMO1WYkjaOHXfXj2HrZC_6JCNgcD7DTO-xVCfbqOo6O7_jd3asLyVlNrx4 target=_blank style="color:#1A73E8; text-decoration:underline; "><span style=white-space:nowrap;>industry-</span>leading AI</a>.</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+<tr>
+          <td align=left class=lrpd style="text-align:left; padding-left:0px; padding-right:0px; padding-top:15px; padding-bottom:0px;">
+            <table role=presentation width=500 cellspacing=0 cellpadding=0 border=0 class=flexible style="width:500px; -premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0;">
+              <tr>
+            
+            <!--[if gte mso 9]>
+						<td width="24" class="img1" style="font-size:14px; line-height:28px; vertical-align:top; padding-top: 0px; text-align:left" valign="top">
+                   <img src="http://services.google.com/fh/files/emails/ic_credit_usage_24px.png" alt=""  style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; height: px; width:24px;vertical-align:top;" width="24"  height="">
+				</td>
+					<![endif]-->
+              
+					<!--[if !mso]><!-->
+                <td width=24 class=img1 style="font-size:14px; line-height:24px; vertical-align:top; padding-top: 1px; text-align:left" valign=top>
+                   <img src=http://services.google.com/fh/files/emails/ic_credit_usage_24px.png alt="" style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none; height: px; width:24px; vertical-align:top;" width=24 height="">
+				</td>
+                   <!--<![endif]-->
+                <td class=imgtd style="font-size:14px; line-height:24px;padding-top:0px;padding-left:24px;padding-right:0px; vertical-align:top;">
+                  <table role=presentation class=flexible cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0">
+                    <tr>
+                      <td class=inner_imgtd style="color:#3C4043; font-family:Roboto, arial; font-size:14px; line-height:24px; font-weight:normal; padding-bottom:0px; padding-top:0px;word-break:normal">Easily check your credit usage by visiting the <a href=https://c.gle/AF5yWjDY564nREUGyhiAYOTreH8j8c8Gcw73Q4ZeC0SR1IaI-NhzH1uPQyjITm5Pkw2491xcwbfT0W22PNUpQz96DdRSYrCsDAZarXArr1gJfW9Rw0EStMuqgrhTezsZASiPDgr_OQKZjIkrJ9YJs4ma0i23SGK-bxE target=_blank style="color:#1A73E8; text-decoration:underline; ">billing section</a> of your <span style=white-space:nowrap;>Google Cloud</span> console</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+   </table>
+    <tr>
+    <td class=grey_td_1 style=padding-left:50px;padding-right:0px>
+      <table role=presentation cellpadding=0 cellspacing=0 border=0 style=width:100%>
+  <tr>
+<td class=grey_section style=padding-top:25px;padding-bottom:14px;background-color:#ffffff;>
+
+<table role=presentation bgcolor=#f1f3f4 width=100% cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0;background-color:#f1f3f4">
+<tr>
+<td class=left-right-spacing style="padding-left: 25px; padding-right: 25px;">
+<table role=presentation style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:initial; font-family:roboto, arial;  font-weight:normal; mso-table-lspace:0; mso-table-rspace:0;" width=100% cellpadding=0 cellspacing=0>
+				<tr>
+					<td style="border-collapse:initial; font-size:12px; padding-top:20px; padding-left: 0px; padding-bottom:17px; padding-right: 0px;  ">
+                      <table role=presentation width=100% cellspacing=0 cellpadding=0 border=0 margin=0 padding=0 style="premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; text-align:left;">
+						 
+                        <tr>
+				                    <td style="padding-top:0px; font-family:Google Sans,Arial; font-size:14px; line-height:24px; font-weight:500; color:#3C4043;padding-bottom: 0px;">
+                                      See what’s always free.
+				                    </td>
+				                 </tr>
+ <tr>
+				                    <td style="padding-top:0px; font-family:Roboto,Arial; font-size:14px; line-height:24px; font-weight:normal; color:#3C4043;padding-bottom: 0px; word-break:normal">
+                                      Before diving into your free trial, take a moment to explore over 20 always-free products in our <a href=https://c.gle/AF5yWjBFpwbjNo8Uuc0g19T7zqw8kMh9zOrnox-iKb8vEZ-Kf3t5M6dxTe27qOeOfhIPxaR_cm0eeceL194CVDsJBQM00UZnpIcRhQXlkjf6EOPCKNslWKvGBLSHVzwuZ3D8ZKnhK9GzINHkvTafVoBO6JetSLcu3znGKmPVfmiOxtPvoJZ-GcLtX5qMklviIrQp5l55Kk8FbXc7VAiZWqFTSkIZRjPsR0tMHWR0dKUlzBixbR0eXD8J7aSzERYIQ0Iap3l-MZ8z85p_Tm_YDzg6ytHLT765FvUGe3dyOqYPRrOnjKJeg8bKdx7ACtulnjyTIdsg2yjXfYLjYfYJftI style="color:#1967D2; font-family:Roboto, arial;  font-weight:normal; text-decoration:underline;" target=_blank>Always Free tier</a>. There’s no charge or credit cost to use these products up to their specified usage limit.
+				                    </td>
+				                 </tr>
+						
+</table>
+
+</td>
+</tr>
+  </table>
+</td>
+</tr>
+  </table>
+      </table>
+      </td>
+    </tr>
+<tr>
+<td class="flexible main_heading_2" style="border-collapse:collapse; color:#3C4043; font-family:Roboto, Arial; font-size:14px; font-weight:normal; line-height:24px; text-align:left; padding-bottom: 0px; padding-top: 9px; padding-left:50px; padding-right:50px; word-break:normal;">
+Get hands-on now with <a href=https://c.gle/AF5yWjBsKEPx1bP3sNGrkAE-onTckfKmvP1koQ2QNRZg9XgOpg-6nvYtTAU71ddrMvgmD1YsSjwzmHzEmRBUIB5K4En0NJpb-I9HnbI4YgyRvzRPOdBz3ifYWZLDs4-fKVDwbeHxxfNkADa0R4jCQ9UA89wo2-eYNdWj3bgP0yXF1qvnr0Pn7RETIPf1xRTYaG3qkI2Ol-10e3wSW-8HI0OTpoaXjGcOLwADtO0_Ruo9P6bVSeMwABXkUSVFoCJHfZZ0WE2AVBkjx-_OOPwpX6BMtUDUJxb-YtO67hL_KwzJSn6hbN_pwmyXGXividwUJAUyMeC8owNqhpErA6NT1eMUu9kk4vDK2wULsLWGgx17RZbgACBtihxes0Plxe229ug108c target=_blank style="color:#1A73E8; text-decoration:underline; ">this quick Cloud console Tour</a>, highlighting how to easily navigate, organize, and manage your projects. To start exploring on your own, just visit your Cloud console.
+</td>
+</tr>
+    <tr>
+      <td id=outer_cover class=main_heading_2 align=left width=500 bgcolor=#ffffff style="border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; padding-top:28px;padding-right:50px; background-color:#ffffff;width:500px;padding-bottom:32px;padding-left:50px;">
+    <table role=presentation class=bluecta style="margin: auto; -moz-border-radius:3px; -premailer-cellpadding:0; -premailer-cellspacing:0; -webkit-border-radius:3px; border-collapse:collapse; border-radius:3px; color:#1a73e8; font-family:Google Sans,Arial; font-weight:500; mso-table-lspace:0; mso-table-rspace:0;" height=40 align=left bgcolor=#1a73e8 cellpadding=0 cellspacing=0>  
+    <tr>
+      <!--[if gte mso 9]>
+	   <td style="padding: 10px 7px 10px 8px; border-collapse:collapse">
+		<a  style="-khtml-border-radius:2px; -moz-border-radius:3px; -moz-border-radius-bottomleft:0; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:0; -moz-border-radius-topright:3px; -ms-border-radius:2px; -o-border-radius:2px; -webkit-border-bottom-left-radius:3px; -webkit-border-bottom-right-radius:3px; -webkit-border-radius:3px; -webkit-border-top-left-radius:0; -webkit-border-top-right-radius:3px; background-color:#1a73e8; border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-color:#1a73e8; border-radius:3px; border-style:solid; border-top-left-radius:3px; border-top-right-radius:3px; color:#ffffff; display:inline-block; font-family:Google Sans, Arial; font-size:14px; font-weight:500; line-height:24px; margin:0; mso-hide:all; text-decoration:none" target="_blank" target='_blank' href="https://c.gle/AF5yWjC0iJLhgA4fT3tUCZAOmBZA3_oiNai9aYcIPbHjtZJfSIiHbnnStz8cDdfO5tD-hwfh85YDYqj4rT7Ws9sl3g0A0SwWQbRBI0vQyAcm4tfC2jFPXVt-WDijStkHGBy7Mma66fQAquebn3iBxc2e-d2aeXeNSuBQBpeswDe9iQeMrHngr9qDe0nB2G9D8gK5cv5X7WSXYlzwx3zP3Icfjswq3hNZtL_vs6KZDf_SZpL_HQ1_5D6RC8KOvIZvVyM53177JPmtCT79FW6inEopZOawVORiKj8czNv7TFLxBRfowiU" bgcolor="#1a73e8" >
+         <span  style="-webkit-text-size-adjust: none; display: block;padding-left:7px;padding-right:9px;">Go to my console</span>
+         </a>
+     </td>
+<![endif]-->
+					<!--[if !mso]><!-->
+      <td style=border-collapse:collapse>
+		<a style="-khtml-border-radius:2px; -moz-border-radius:3px; -moz-border-radius-bottomleft:0; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:0; -moz-border-radius-topright:3px; -ms-border-radius:2px; -o-border-radius:2px; -webkit-border-bottom-left-radius:3px; -webkit-border-bottom-right-radius:3px; -webkit-border-radius:3px; -webkit-border-top-left-radius:0; -webkit-border-top-right-radius:3px; background-color:#1a73e8; border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-color:#1a73e8; border-radius:3px; border-style:solid; border-top-left-radius:3px; border-top-right-radius:3px; color:#ffffff; display:inline-block; font-family:Google Sans, Arial; font-size:14px; font-weight:500; line-height:24px; margin:0; mso-hide:all; text-decoration:none" target=_blank target=_blank href=https://c.gle/AF5yWjC0iJLhgA4fT3tUCZAOmBZA3_oiNai9aYcIPbHjtZJfSIiHbnnStz8cDdfO5tD-hwfh85YDYqj4rT7Ws9sl3g0A0SwWQbRBI0vQyAcm4tfC2jFPXVt-WDijStkHGBy7Mma66fQAquebn3iBxc2e-d2aeXeNSuBQBpeswDe9iQeMrHngr9qDe0nB2G9D8gK5cv5X7WSXYlzwx3zP3Icfjswq3hNZtL_vs6KZDf_SZpL_HQ1_5D6RC8KOvIZvVyM53177JPmtCT79FW6inEopZOawVORiKj8czNv7TFLxBRfowiU bgcolor=#1a73e8>
+         <span style="-webkit-text-size-adjust: none; display: block;padding-left:16px;padding-right:15px; padding-top:9px; padding-bottom:9px;">Go to my console</span>
+         </a>
+     </td>
+      <!--<![endif]-->
+   </tr>
+</table>
+      </td>
+   </tr>
+
+<tr>
+<td class="flexible main_heading_2" style="border-collapse:collapse; color:#3C4043; font-family:Google Sans,Roboto, Arial; font-size:14px; font-weight:normal; line-height:24px; text-align:left; padding-bottom: 0px; padding-top: 0px; padding-left:50px; padding-right:0px; word-break:normal;">
+See you in the cloud,
+</td>
+</tr>
+<tr>
+<td class="flexible main_heading_2" style="border-collapse:collapse; color:#3C4043; font-family:Google Sans,Roboto, Arial; font-size:14px; font-weight:bold; line-height:24px; text-align:left; padding-bottom: 16px; padding-top: 0px; padding-left:50px; padding-right:0px; word-break:normal;">
+The Google Cloud Team
+</td>
+</tr>
+        
+
+        
+   
+      </td>
+   
+  </tr>
+    <tr>
+    <td class=grey_td style=padding-left:50px;padding-right:50px>
+      <table role=presentation cellpadding=0 cellspacing=0 border=0 style=width:100%>
+  <tr>
+
+<td class=grey_section style=padding-top:9px;padding-bottom:34px;background-color:#ffffff;>
+
+<table role=presentation bgcolor=#ffffff width=100% cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; mso-table-lspace:0; mso-table-rspace:0;background-color:#ffffff; border: 1px solid #3C4043; -khtml-border-radius:2px; -moz-border-radius:3px; -moz-border-radius-bottomleft:0; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:0; -moz-border-radius-topright:3px; -ms-border-radius:2px; -o-border-radius:2px; -webkit-border-bottom-left-radius:3px; -webkit-border-bottom-right-radius:3px; -webkit-border-radius:3px; -webkit-border-top-left-radius:0; -webkit-border-top-right-radius:3px; border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-color: #3C4043; border-radius:3px; border-style:solid; border-top-left-radius:3px; border-top-right-radius:3px;">
+<tr>
+<td class=left-right-spacing style="padding-left:19px; padding-right: 25px;">
+<table role=presentation style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:initial; font-family:roboto, arial;  font-weight:normal; mso-table-lspace:0; mso-table-rspace:0;" width=100% cellpadding=0 cellspacing=0>
+				<tr>
+					<td style="border-collapse:initial; font-size:12px; padding-top:15px; padding-left: 0px; padding-bottom:23px; padding-right: 0px;  ">
+                      <table role=presentation width=100% cellspacing=0 cellpadding=0 border=0 margin=0 padding=0 style="premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; text-align:left;">
+						 
+                        <tr>
+				                    <td style="padding-top:0px; font-family:Roboto,Arial; font-size:14px; line-height:24px; font-weight:normal; color:#3C4043;padding-bottom: 0px; word-break:normal">
+                                      * Your free trial <span style=font-weight:bold;>stays free</span>. If you use a credit or debit card, there’s no charge unless you turn on automatic billing. If you use NetBanking, you can request a refund of your one-time prepayment by closing your Cloud billing account.
+
+				                    </td>
+				                 </tr>
+						
+</table>
+
+</td>
+</tr>
+  </table>
+</td>
+</tr>
+  </table>
+      </table>
+      </td>
+    </tr>
+    <tr>
+
+    <td class=footer_wrapper_td style="padding-right:50px; padding-left:50px;">
+      <table role=presentation cellpadding=0 cellspacing=0 border=0 style=width:100%>
+<tr>
+   <td class=bottom_link_footer_td align=left width=100% style="margin:0; padding:0; padding-right:0px;">
+<!--[if mso]>
+    <table role="presentation" class="bottom_link_container" cellspacing="0" cellpadding="0" border="0" style="-premailer-cellpadding:0; -premailer-cellspacing:0; background:#ffffff;border-top:1px solid #D8D8D8; border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; margin:0;  mso-table-lspace:0; mso-table-rspace:0; width:500px;" width="500">
+ <![endif]-->
+ <!--[if !mso]> <!---->
+<table role=presentation class=bottom_link_container cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; background:#ffffff; border-collapse:collapse; border-top:1px solid #D8D8D8; font-family:Roboto, arial; font-weight:normal; margin:0 auto; max-width:600px; mso-table-lspace:0; mso-table-rspace:0; width:100%" width=100%>
+ <!-- <![endif]-->
+  <tr>
+     <td style=border-collapse:collapse>
+        <table role=presentation width=100% cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0">
+      <!--[if (gte mso 9)|(IE)]>
+ <tr><td width="500">
+ <table role="presentation" width="500" cellspacing="0" cellpadding="0" border="0" >
+ <![endif]-->
+    <tr>
+       <td class=text_wrapper_inner_td style="-khtml-border-radius:0 0 5px 5px; -moz-border-radius:0 0 5px 5px; -webkit-border-radius:0 0 5px 5px; border-collapse:collapse; border-radius:0 0 5px 5px; color:#455a64; font-family:Roboto, arial; font-size:14px; line-height:24px; padding-bottom:0;">
+         <table role=presentation class=bottom_link_container_inner_table width=100% style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-weight:normal; max-width:600px; mso-table-lspace:0; mso-table-rspace:0; width:100%" cellpadding=0 cellspacing=0>
+            <tr>
+              <td class=five-column style="border-collapse:collapse;font-size:0;padding: 16px 0px 15px 0px;text-align:left;padding-right: 0px;" align=left>
+
+     <table role=presentation class=contents align=left style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-size:14px; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0; text-align:left; width:100px;" cellpadding=0 cellspacing=0 width=100>
+      <tr>
+        <td class=text id=ft1 valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; padding-right:7px; text-align:left; width:26px;padding-left:0px;" align=left width=26>
+ <a target=_blank href=https://c.gle/AF5yWjBQKUDq9Z7oGaK2Z5LzyQP35TaGVRO45FTuUsJ4w9BtlTGM-GkqPT19Vfu5gVVyr_Vd-xPMvtIUHGOV6X9SlZieklarOSw1lcOoUOCG15ug0LLY2BnPbkBQhHtV38A1oQ2J2bKrKRF2mWgmh9vvMkHjyh6nZM6x_W-0MvILbz8yvNpRsBVMkOqnG3eFivwuD2xNEEawWJ3JJHBVdwnykMl7bhfC4R5kqjDIAIhaXIr1GWICsaZBy1LId6ohcKCnL1kXwgYBC9bsFgKstzx4 target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none" class="bottom_link_text bottom_link_text_mbl" align=left aria-hidden=true><img src=http://services.google.com/fh/files/emails/ic_contact_support_24px.png valign=middle width=19 border=0 alt="" style="-ms-interpolation-mode:bicubic; height:auto; outline:none; text-decoration:none;vertical-align:middle;" height=auto></a>
+        </td>
+        <td class=text1 width=100% valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left;width:100%; padding-top:1px;padding-right:21px" align=left>
+ <a target=_blank href=https://c.gle/AF5yWjBQKUDq9Z7oGaK2Z5LzyQP35TaGVRO45FTuUsJ4w9BtlTGM-GkqPT19Vfu5gVVyr_Vd-xPMvtIUHGOV6X9SlZieklarOSw1lcOoUOCG15ug0LLY2BnPbkBQhHtV38A1oQ2J2bKrKRF2mWgmh9vvMkHjyh6nZM6x_W-0MvILbz8yvNpRsBVMkOqnG3eFivwuD2xNEEawWJ3JJHBVdwnykMl7bhfC4R5kqjDIAIhaXIr1GWICsaZBy1LId6ohcKCnL1kXwgYBC9bsFgKstzx4 target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none;white-space:nowrap;" class="bottom_link_text bottom_link_text_mbl" align=left>Support</a>
+        </td>
+     </tr>
+   </table>
+
+     <table role=presentation class=contents align=left style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-size:14px; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0; text-align:left; width:94px;" cellpadding=0 cellspacing=0 width=94>
+       <tr>
+          <td class=text id=ft2 valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; padding-right:6px; text-align:left; width:25px;padding-left:0px;" align=left width=25>
+ <a target=_blank href=https://c.gle/AF5yWjBtoT0MMD-IzB8-HtP2h1qr6qVBeFZfi1UsQCfs8Z870YPmshkwD_CCrR849pFEvH95QvZh-u0CIKi6MNCPun-hXEjcsEAV2G_QGWqQEX8n_adj-YxlRVXvf9d5sLMJLcJIbuPeI4Glelg target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none" class="bottom_link_text bottom_link_text_mbl" align=left aria-hidden=true><img src=http://services.google.com/fh/files/emails/ic_forum_support_24px.png valign=middle width=19 border=0 alt="" style="-ms-interpolation-mode:bicubic; height:auto; outline:none; text-decoration:none;vertical-align:middle;" height=auto></a>
+          </td>
+          <td class=text1 width=100% valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left;width:100%; padding-top:1px;padding-right:19px" align=left>
+ <a target=_blank href=https://c.gle/AF5yWjBtoT0MMD-IzB8-HtP2h1qr6qVBeFZfi1UsQCfs8Z870YPmshkwD_CCrR849pFEvH95QvZh-u0CIKi6MNCPun-hXEjcsEAV2G_QGWqQEX8n_adj-YxlRVXvf9d5sLMJLcJIbuPeI4Glelg target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none;white-space:nowrap;" class="bottom_link_text bottom_link_text_mbl" align=left>Forums</a>
+          </td>
+      </tr>
+    </table>
+
+     <table role=presentation class=contents align=left style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-size:14px; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0; text-align:left; width:148px;" cellpadding=0 cellspacing=0 width=148>
+       <tr>
+           <td class=text id=ft3 valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; padding-right:8px; text-align:left; width:25px;padding-left:0px;" align=left width=25>
+             <a target=_blank href=https://c.gle/AF5yWjCBNfVButhME0LZRJXP6v8ZyU09T7yK5x_umP1grRywAB5sOgl5k_Fkow7AGda75GUdCmjN-nnzQXwg1KgUFdtaXHkxRqjA5dba5VEIO6ZxulhcyZT-KjGYsRGwI-ysvcRcwqo3-xblnNirqYyW6vk4jlbmiyHQUuy0EuU0FEO2jX-Ga0T2noqu7STPwIiD4G8P6IHDDBlb7BBENinfDR1qiA5eTZZ1CMTQYTovu-KiRuOUEVkiQE6gaoOz01KAjoxIckCXX0dna4m6ISs target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none" class="bottom_link_text bottom_link_text_mbl" align=left aria-hidden=true><img src=http://services.google.com/fh/files/emails/ic_documentation_support_24px_copy.png valign=middle width=19 border=0 alt="" style="-ms-interpolation-mode:bicubic; height:auto; outline:none; text-decoration:none;vertical-align:middle;" height=auto></a>
+            </td>
+            <td class=text1 width=100% valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left;width:100%; padding-top:1px;padding-right:16px" align=left>
+ <a target=_blank href=https://c.gle/AF5yWjCBNfVButhME0LZRJXP6v8ZyU09T7yK5x_umP1grRywAB5sOgl5k_Fkow7AGda75GUdCmjN-nnzQXwg1KgUFdtaXHkxRqjA5dba5VEIO6ZxulhcyZT-KjGYsRGwI-ysvcRcwqo3-xblnNirqYyW6vk4jlbmiyHQUuy0EuU0FEO2jX-Ga0T2noqu7STPwIiD4G8P6IHDDBlb7BBENinfDR1qiA5eTZZ1CMTQYTovu-KiRuOUEVkiQE6gaoOz01KAjoxIckCXX0dna4m6ISs target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none;white-space:nowrap;" class="bottom_link_text bottom_link_text_mbl" align=left>Documentation</a>
+           </td>
+     </tr>
+   </table>
+               
+   <table role=presentation class=contents align=left style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto, arial; font-size:14px; font-weight:normal; mso-table-lspace:0; mso-table-rspace:0; text-align:left; width:107px;" cellpadding=0 cellspacing=0 width=107>
+       <tr>
+           <td class=text id=ft4 valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; padding-right:8px; text-align:left; width:25px;padding-left:0px;" align=left width=25>
+             <a target=_blank href=https://c.gle/AF5yWjCVULtHU6TWirCqcPZu0qZvp5vqaAemim8AoehqS-8aw28vJ4xGf2DxtyucdSbUHlwZpDgWMz0vm6-svbwV-2fiFcTToj-KyFN8rePExkLLnCdbJvBKQoK0y9KP7qhkKOZS8fNt8e7LQXnY0z3blQPsWG2k3MZlNl3uJRz_cxqnHdy2eZIQlDdSPX8_2qLJhF_QT029W4UDpZ9GeBzeFdoivRmQH_VlPVcZt7Ds5cokOqP3Ffw9w8nZXgchMHeepQcXESNqn-iwMBEaVufI3oqKLE0 target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none" class="bottom_link_text bottom_link_text_mbl" align=left aria-hidden=true><img src=http://services.google.com/fh/files/emails/ic_tutorials_support_24px_copy2.png valign=middle width=19 border=0 alt="" style="-ms-interpolation-mode:bicubic; height:auto; outline:none; text-decoration:none;vertical-align:middle;" height=auto></a>
+            </td>
+            <td class=text1 width=100% valign=middle style="border-collapse:collapse; color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left;width:100%; padding-top:1px;padding-right:0px" align=left>
+ <a target=_blank href=https://c.gle/AF5yWjCVULtHU6TWirCqcPZu0qZvp5vqaAemim8AoehqS-8aw28vJ4xGf2DxtyucdSbUHlwZpDgWMz0vm6-svbwV-2fiFcTToj-KyFN8rePExkLLnCdbJvBKQoK0y9KP7qhkKOZS8fNt8e7LQXnY0z3blQPsWG2k3MZlNl3uJRz_cxqnHdy2eZIQlDdSPX8_2qLJhF_QT029W4UDpZ9GeBzeFdoivRmQH_VlPVcZt7Ds5cokOqP3Ffw9w8nZXgchMHeepQcXESNqn-iwMBEaVufI3oqKLE0 target=_blank style="color:#1A73E8; font-family:Google Sans, Roboto, arial; font-size:14px; font-weight:500; line-height:18px; text-align:left; text-decoration:none;white-space:nowrap;" class="bottom_link_text bottom_link_text_mbl" align=left>Tutorials</a>
+           </td>
+     </tr>
+   </table>
+     </td>
+     </tr>
+     </table>
+         </td>
+         </tr>
+      <!--[if (gte mso 9)|(IE)]>
+</table>
+ </td></tr>
+ <![endif]-->
+     </table>
+     </td>
+     </tr>
+</table>
+</td>
+</tr>
+      </table>
+      </td>
+    </tr>
+
+  </table>
+  </td>
+</tr>
+ 
+   
+ 
+<tr>
+  <td width=100% style=border-collapse:collapse;width:100%;>
+     <table role=presentation width=100% class=content_wrapper cellspacing=0 cellpadding=0 border=0 style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Roboto,Arial; font-weight:normal; margin:0 auto; max-width:600px; mso-table-lspace:0; mso-table-rspace:0; width:100%">
+
+        <tr>
+            <td class=footer_wrapper_td style="border-collapse:collapse; color:#5F6368; font-family:Roboto, arial; font-size:12px; line-height:18px; padding:28px 50px 0px 50px; text-align:left"> 
+               <img src=http://services.google.com/fh/files/emails/bottom_footer_logo.png alt="Google Cloud" width=140 style="-ms-interpolation-mode:bicubic; outline:none; text-decoration:none;padding-top:13px; padding-bottom
+:10px">
+             </td>
+       </tr>
+
+       <tr>
+           <td class=footer_wrapper_td style="border-collapse:collapse; color:#5F6368; font-family:Roboto, arial; font-size:12px; line-height:18px; padding:9px 50px 9px 50px; text-align:left; word-break: break-word;"> 
+     <a style=pointer-events:none;cursor:text;text-decoration:none;color:#5F6368;font-size:12px;>Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043</a>
+           </td>
+       </tr>
+
+        <tr>
+           <td class=footer_wrapper_td style="border-collapse:collapse; color:#5F6368; font-family:Roboto, arial; font-size:12px; line-height:18px; padding:23px 50px 19px 50px; padding-top:9px; text-align:left; word-break: break-word;"> 
+     You have received this mandatory service announcement to update you about important changes to <span style=" white-space: nowrap;">Google Cloud</span> or your account.
+           </td>
+       </tr>
+
+            <tr>
+                      <td class="social_icons_container flexible" style="background-color:#f8f9fa; border-collapse:collapse; padding:11px 50px 15px 34px; width:100%" width=100%> 
+                        <table role=presentation class=social_icons_container_inner cellspacing=0 cellpadding=0 border=0 align=left style="-premailer-cellpadding:0; -premailer-cellspacing:0; border-collapse:collapse; font-family:Arial, sans-serif; font-weight:normal; margin:0 auto; mso-table-lspace:0; mso-table-rspace:0"> 
+                 <tr>
+                     <td width=30 class=social_icons_container_inner style="border-collapse:collapse; margin:0 auto"><a target=_blank href=https://c.gle/AF5yWjDzBOAlk4KtYnmHf1x3Fd8uHkuVtKnVJQohoynbKpmfr_2zL8ETNP-ebfBDN4ML3ThMb4jD-kti-w8EKV8k3kZqEoseVVmVYJG0qgeGS_cZrS48qo5B1bWPoQF3HORudZ2yiCdjwMvCt_SalWPEP4WXWOqH5CllUQi-JhWAhkkEtMo9YhpfhZ78otUCwLMvKrv1Os9hbZ0Pkj-9Z11j6eB5FMHcUaF7N-9BcH0PJlgoflkEvX21x0879w5lxiMicoBntEI target=_blank><img src=http://services.google.com/fh/files/emails/ic-footer-blog.png alt="Google Cloud Blog" width=48 style="-ms-interpolation-mode:bicubic; border:none; outline:none; text-decoration:none"></a></td>
+                     <td width=10 style=border-collapse:collapse>&nbsp; &nbsp;</td>
+                     <td width=30 class=social_icons_container_inner style="border-collapse:collapse; margin:0 auto"><a target=_blank href=https://c.gle/AF5yWjCwAq5Oe5bUUi05Veh1NUcwocnqNgxwyWM2wE0KYDwlSRHONZfkP7gwmjnjowdQ8xjdAM6Iu1mEBksbE_-i3s20ddKnBXSh_cyKEUhrFR5z2th-Owmyy-HuNG9iPxRIpZqfAQlTL0TJj9hS target=_blank><img src=http://services.google.com/fh/files/emails/ic-footer-github.png alt=GitHub width=48 style="-ms-interpolation-mode:bicubic; border:none; outline:none; text-decoration:none"></a></td>
+                     <td width=10 style=border-collapse:collapse>&nbsp; &nbsp;</td>
+                     <td width=30 class=social_icons_container_inner style="border-collapse:collapse; margin:0 auto"><a target=_blank href=https://c.gle/AF5yWjDjFvR1ysUrwB2kVopcOUm9HnPKdKWzPLaKrgBl4jyJZ6wn2uRjyQERH_WKRlnDO51cF8WN84x28RCLcUveQN7e0aB4vBHUfQQ7oZ5o_tdb1Z8b4F8RknR2EolJ0wUrCLFe6PjFTgzdSbWz_3yg3g5IGRo0v1M target=_blank><img src=http://services.google.com/fh/files/emails/ic-footerlinkedin.png alt=LinkedIn width=48 style="-ms-interpolation-mode:bicubic; border:none; outline:none; text-decoration:none"></a></td>
+                     <td width=10 style=border-collapse:collapse>&nbsp; &nbsp;</td>
+                     <td width=33 class=social_icons_container_inner style="border-collapse:collapse; margin:0 auto"><a target=_blank href=https://c.gle/AF5yWjACdQNedpQ2sCbzJ_yc4RclBEsYl2-uVnz-jXJUNwleuaM5uRYKFzOHb0WKJMrPavaz9u39UYJ6Vn_vnRSssruA9EAuXx9D476qG456XGSLbnXSzKqhLVpReQD1rNkVRG6xXCx4 target=_blank><img src=https://services.google.com/fh/files/emails/twitter_x_logo_new6.png alt=Twitter width=48 style="-ms-interpolation-mode:bicubic; border:none; outline:none; text-decoration:none"></a></td>
+                     <td width=10 style=border-collapse:collapse>&nbsp; &nbsp;</td>
+                     <td width=33 class=social_icons_container_inner style="border-collapse:collapse; margin:0 auto"><a target=_blank href=https://c.gle/AF5yWjDndePwWi_9tAPchPIDWIgY8RX3x8t_m9IDd0W1dLMH1XKT4jSjgwtJHREVjpjjE5VA2iKju6E0vYTR1-ne4mBRn9NbW0ssRcklRNyh4tsXPUfQrKwQy_cKmyihUcIDzPPHh1iikJVZkUCw3A target=_blank><img src=http://services.google.com/fh/files/emails/ic-footer-facebook.png alt=Facebook width=48 style="-ms-interpolation-mode:bicubic; border:none; outline:none; text-decoration:none"></a></td>
+                  </tr>
+                        </table>
+                       </td>
+                    </tr>
+ 
+	</table>
+</section>
+</div>
+
+
+ <!--[if mso ]>
+<table id="email-container" style="width:600px;line-height:0;font-size:0;height:0;overflow:hidden;border-collapse:collapse" width="600"><img alt="" height="1" src="https://notifications.google.com/g/img/AF5yWjDFEyyFEjnOeeTJ7Ed-S5poNxh93hIYFsQ77WMJAKk9OqpG51PCB_-UoJ0G0SqpsUzhpz7ti3YBD0s-myg5QrbgmUT1vjjGo36TofR5jwiwKys4k7nlzHyA-TDrR_3BFe1vYg.gif" width="3"></table><![endif]-->
+<!--[if !mso]><!-->
+<div style=width:auto;line-height:0;font-size:0;height:0;overflow:hidden;border-collapse:collapse><img alt="" height=1 src=https://notifications.google.com/g/img/AF5yWjDFEyyFEjnOeeTJ7Ed-S5poNxh93hIYFsQ77WMJAKk9OqpG51PCB_-UoJ0G0SqpsUzhpz7ti3YBD0s-myg5QrbgmUT1vjjGo36TofR5jwiwKys4k7nlzHyA-TDrR_3BFe1vYg.gif width=3></div>
+<!--<![endif]-->
+</div>
+
+ 
+
+  </body>
+</html>
+ 
+
+
+================================================================================

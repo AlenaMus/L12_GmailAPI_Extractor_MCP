@@ -1,0 +1,419 @@
+================================================================================
+EMAIL 1 OF 3
+================================================================================
+Message ID: 19a09e1e73634e5e
+From: "פזגז" <pazgas.invoice@printernet.co.il>
+To: "alona.musiyko@gmail.com" <alona.musiyko@gmail.com>
+Subject: חשבונית הגז שלך מפזגז לתקופה 15/08/2025-13/10/2025 ממתינה לך
+Date: Tue, 21 Oct 2025 12:36:05 +0300
+================================================================================
+
+EMAIL BODY:
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--[if gte mso 15]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+<style type="text/css">
+p {
+margin: 10px 0;
+padding: 0;
+}
+table {
+border-collapse: collapse;
+}
+h1, h2, h3, h4, h5, h6 {
+display: block;
+margin: 0;
+padding: 0;
+}
+img, a img {
+border: 0;
+/*height: auto;*/
+outline: none;
+text-decoration: none;
+}
+body, #body-table, #body-cell, #top-body-cell {
+height: 100%;
+margin: 0;
+padding: 0;
+width: 100%;
+}
+#outlook a {
+padding: 0;
+}
+img {
+-ms-interpolation-mode: bicubic;
+}
+table {
+mso-table-lspace: 0pt;
+mso-table-rspace: 0pt;
+}
+.ExternalClass {
+width: 100%;
+}
+p, a, li, td {
+mso-line-height-rule: exactly;
+}
+p, a, li, td, body, table {
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font {
+line-height: 100%;
+}
+a[x-apple-data-detectors] {
+color: #00A4E4 !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.template-container {
+max-width: 640px !important;
+}
+a.button {
+display: block;
+}
+table {
+font-family: Arial, sans-serif;
+font-size: 16px;
+line-height: 120%;
+/*color: #646464;*/
+font-weight: normal;
+}
+h1 {
+/*color: #00A4E4;*/
+font-family: Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: bold;
+line-height: 125%;
+letter-spacing: normal;
+text-align: right;
+}
+h2 {
+/*color: #00A4E4;*/
+font-family: Arial, sans-serif;
+font-size: 23px;
+font-style: normal;
+font-weight: normal;
+line-height: 125%;
+letter-spacing: normal;
+text-align: right;
+}
+h3 {
+/*color: #646464;*/
+font-family: Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: bold;
+line-height: 125%;
+letter-spacing: normal;
+text-align: right;
+}
+h4 {
+/*color: #00A4E4;*/
+font-family: Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: normal;
+line-height: 125%;
+letter-spacing: normal;
+text-align: right;
+}
+/* RTL Specific CSS */ body, #body-table, #body-cell, #top-body-cell, #preheader-body-cell, table {
+direction: rtl;
+}
+table {
+text-align: right;
+}
+h2 a {
+/*color: #00A4E4 !important;*/
+}
+h2 a:visited {
+/*color: #00A4E4 !important;*/
+}
+@media only screen and (min-width:768px) {
+.template-container {
+width: 640px !important;
+}
+}
+@media only screen and (max-width: 480px) {
+body, table, td, p, a, li {
+-webkit-text-size-adjust: none !important;
+}
+body {
+width: 100% !important;
+min-width: 100% !important;
+}
+.column-wrapper {
+max-width: 100% !important;
+width: 100% !important;
+}
+.fullwidth-img {
+width: 100% !important;
+}
+.responsive-img {
+max-width: 100% !important;
+}
+.responsive-image {
+max-width: 100% !important;
+}
+.mobile-break {
+display: block !important;
+}
+.mobile-hidden {
+display: none !important;
+}
+.mobile-auto-height {
+height: auto !important;
+}
+.mobile-anti-nbsp {
+display: none;
+}
+.mobile-no-width {
+width: auto !important;
+}
+.mobile-1p-width {
+width: 1% !important;
+}
+.mobile-100p-width {
+width: 100% !important;
+}
+.mobile-span-block {
+display: block;
+padding-bottom: 2px;
+}
+.fullwidth-table {
+width: 100% !important;
+max-width: 100% !important;
+}
+.title-item-cell {
+width: 160px !important;
+}
+.button-cell {
+padding: 8px;
+}
+.column-container-table {
+width: 100% !important;
+max-width: 100% !important;
+}
+.column-rapper {
+max-width: 100% !important;
+width: 100% !important;
+}
+#template-preheader {
+display: block !important;
+}
+h1 {
+font-size: 14px !important;
+line-height: 125% !important;
+}
+h2 {
+font-size: 20px !important;
+line-height: 125% !important;
+}
+h3 {
+font-size: 18px !important;
+line-height: 125% !important;
+}
+h4 {
+font-size: 14px !important;
+line-height: 125% !important;
+}
+.button-cell {
+padding: 8px;
+}
+.fs10 {
+font-size: 10px !important;
+}
+.fs12 {
+font-size: 12px !important;
+}
+.fs14 {
+font-size: 14px !important;
+}
+.fs16 {
+font-size: 16px !important;
+}
+.fs18 {
+font-size: 18px !important;
+}
+.fs20 {
+font-size: 20px !important;
+}
+.fs22 {
+font-size: 22px !important;
+}
+.fs24 {
+font-size: 24px !important;
+}
+.fs26 {
+font-size: 26px !important;
+}
+.fs28 {
+font-size: 28px !important;
+}
+.fs30 {
+font-size: 30px !important;
+}
+.width-0 {
+width: 0px !important;
+}
+.button-img {
+width: 80px !important;
+height: auto !important;
+}
+.elal-logo {
+width: 120px !important;
+height: auto !important;
+}
+.single-column-container-table {
+width: 100% !important;
+max-width: 100% !important;
+min-width: auto !important;
+}
+.double-column-container-table {
+width: 100% !important;
+max-width: 100% !important;
+}
+.halfs-column-container-table {
+width: 100% !important;
+max-width: 100% !important;
+}
+.fullwidth-img-container-table {
+width: 100% !important;
+}
+.title-img-line-cell {
+width: 70px !important;
+}
+.title-img-line-img {
+width: 70px !important;
+}
+.footer-cell {
+height: auto !important;
+}
+.mobile-side-no-padding {
+padding-left: 0px !important;
+padding-right: 0px !important;
+}
+}
+</style>
+</head>
+<body style="height: 100%; margin: 0; padding: 0; width: 100%; background-color: #ffffff;">
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="body-table" style="height: 100%; margin: 0; padding: 0; width: 100%; background-color: #FFFFFF; direction: rtl;">
+<tr>
+<td align="center" valign="top" id="body-cell" style="height: 100%; margin: 0; width: 100%; font-family: Arial, sans-serif; font-weight: normal; line-height: 120%; font-size: 16px; color: #222; word-break: break-word">
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="640" style="width:640px;">
+<tr>
+<td align="center" valign="top" width="640" style="width:640px;">
+<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="template-container" style="max-width: 640px !important; direction: rtl;">
+<tr>
+<td valign="top" id="template-preheader">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;">
+<tr>
+<td height="1" style="height: 1px !important; max-height: 1px !important; line-height: 1px !important; font-size: 1px !important">
+<img width="1" height="1" src="https://nmrdn.printernet.co.il/2903730_7.gif" alt="" style="display: inline"></td>
+</tr>
+<!--beginclickhere-->
+<tr>
+<td valign="top" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="column-wrapper">
+<tr>
+<td valign="top" style="padding-top: 9px; padding-left: 18px; padding-bottom: 9px; padding-right: 18px; color: #666; font-size: 12px; text-align: center;">
+<a href="https://nmall.printernet.co.il/ViewPage.aspx?ow=dc3db097b6c50867&amp;pt=4d66e5e3ac37fab259a8cf0793cf94bfe827fea5cd571f61" target="_blank" style="color: #666; text-decoration: underline;">הצג את האימייל הזה בדפדפן שלך</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!--endclickhere-->
+</table>
+</td>
+</tr>
+<tr>
+<td id="Contents" valign="top"><a name="cnt233"></a><article id="wrpcnt233" el-type="6"><style>
+table{line-height:normal !important;}
+</style>
+<table id="1440" class="fullwidth-table" border="0" cellpadding="0" cellspacing="0" align="center" width="640" style="font-weight:normal;font-family:arial,sans-serif;color:#000000;background-color:transparent;font-size:14px;direction:rtl;"><tr>
+<td width="15" style="width: 15px;"></td>
+<td width="610" style="width: 610px;">
+<a el-type="5" el-obj="233" id="5179" class="LinkGen" target="_self" style="font-family:Arial;font-size:12px;font-weight:normal;color:#000000;background-color:transparent;"><img el-type="5" el-obj="233" el-medcont="2058" id="5144" src="https://nmmediaint.printernet.co.il/PazGaz/HtmlData/Newsletters/Images/nr_10.png" alt="" width="610" class="responsive-image" style="font-family:Arial;font-size:12px;font-weight:normal;color:#000000;background-color:transparent;display:block;"></a>
+</td>
+<td width="15" style="width: 15px;"></td>
+</tr>
+<tr>
+<td width="15" style="width: 15px;"></td>
+<td style="direction: rtl; width: 610px;" width="610">
+<span el-type="2" el-obj="233" id="5146" style="background-color:transparent;font-family:arial,sans-serif;font-weight:normal;color:#000000;font-size:14px;">
+<div style="text-align: right; font-size: 24px;">
+<p dir="RTL">&nbsp;</p></div>
+<div style="text-align: right; font-size: 24px;"><span style="color: rgb(7, 116, 187); font-family: Arial; font-weight: 700;">שלום אלונה שלייב<span style="color: rgb(3, 69, 132); font-family: Arial; font-size: 24px; font-weight: 700; text-align: right;">,</span></span></div>
+<div style="text-align: right; font-size: 24px;"><br>
+</div>
+<div style="text-align: right;"><span style="font-family: Arial, sans-serif; font-size: 13.5pt;">מצורפת חשבונית הגז של
+פזגז, לתקופה</span><span style="font-size: 18px; font-family: Arial;">&nbsp;</span><span style="font-family: Arial; font-size: 18px;">15/08/2025-13/10/2025<span style="font-family: Arial; font-size: 18px; text-align: right;">.</span></span></div>
+<div style="text-align: right; font-size: 18px;"><span style="font-size: 18px;"><span style="font-family: Arial; font-size: 18px;">החשבונית חתומה בחתימה אלקטרונית בהתאם להוראות החוק ומאושרת לצרכי מס</span></span><span style="font-family: Arial;">.</span></div>
+<div style="text-align: right; font-size: 18px;"><span style="font-family: Arial; font-size: 18px;">אין צורך לשלם חשבונית זו. החיוב באמצעות הוראת הקבע יתבצע במועד האחרון לתשלום.</span></div>
+<div style="text-align: right; font-size: 24px;"><span style="font-size: 24px; color: rgb(3, 69, 132);">&nbsp;</span></div>
+<div style="text-align: right; font-size: 24px;"><span lang="HE" dir="RTL" style="font-size: 15pt; font-family: Arial, sans-serif; color: rgb(7, 116, 187); font-weight: bold;">לעדכון אמצעי תשלום
+להוראת הקבע באופן דיגיטלי וללא המתנה לנציג לחץ</span><span style="font-family: Arial; font-weight: bold; font-size: 20px; color: rgb(7, 116, 187);">&nbsp;<a href="https://nmall.printernet.co.il/AddLinkTrack.aspx?ow=dc3db097b6c50867&dl=113&l=447&pt=4d66e5e3ac37fab259a8cf0793cf94bfe827fea5cd571f61" target="_blank">כאן</a></span></div>
+<div style="text-align: right; font-size: 24px;"><span style="font-size: 24px;">&nbsp;</span></div>
+<div style="text-align: right; font-size: 20px;"><span style="color: rgb(244, 75, 97);"><span style="font-family: Arial; font-size: 20px;">מייל זה נשלח ממערכת אוטומטית ואין להשיב עליו.</span></span></div>
+<div style="text-align: right; font-size: 24px;"><span style="font-size: 24px;">&nbsp;</span></div> </span>
+</td>
+<td width="15" style="width: 15px;"></td>
+</tr>
+</table>
+</article><a name="cnt234"></a><article id="wrpcnt234" el-type="6"><table id="1456" class="fullwidth-table" border="0" cellpadding="0" cellspacing="0" align="center" width="640" style="font-weight:normal;font-family:arial,sans-serif;color:#000000;font-size:14px;background-color:transparent;direction:rtl;"><tr>
+<td width="15" style="width: 15px;"></td>
+<td width="610" style="width: 610px;">
+<a el-type="5" el-obj="234" id="5168" class="LinkGen1" target="_self" style="font-family:Arial;font-size:12px;font-weight:normal;color:#000000;background-color:transparent;"><img el-type="5" el-obj="234" el-medcont="2058" id="5167" src="https://nmmediaint.printernet.co.il/PazGaz/HtmlData/Newsletters/Images/nr_13.png" alt="" width="610" class="responsive-image" style="font-family:Arial;font-size:12px;font-weight:normal;color:#000000;background-color:transparent;display:block;"></a>
+</td>
+<td width="15" style="width: 15px;"></td>
+</tr>    
+</table>
+</article></td>
+</tr>
+<tr>
+<td valign="top" id="template-footer" style="border-top: 0; border-bottom: 0; padding-top: 9px; padding-bottom: 9px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;">
+<tr>
+<td valign="top">
+<table align="right" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;">
+<tr>
+<td align="center"><a href="http://www.nextopic.com" target="_blank"><img src="http://nmsites.nextopic.com/PoweredByNextTopic.gif" alt=""></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- End Of Template -->
+</td>
+</tr>
+</table>
+<div style="display: none; white-space: nowrap; font: 15px courier; line-height: 0; color: #ffffff">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+</center>
+</body>
+</html>
+
+
+
+================================================================================
